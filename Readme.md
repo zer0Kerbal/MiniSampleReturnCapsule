@@ -112,7 +112,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - [x]  [Deadly Reentry Lite][thread:DRELite] - _coming soon_  
 - [x]  [B9 Stock Switches][thread:B9StockPatches]  
 - [x]  [HotBeverages][thread:HB!]  - _coming soon_
-- [x]  [The Gold Standard (TheGoldStandard)][thread:gold]  
+- [x]  [The Gold Standard (TheGoldStandard)][thread:TheGoldStandard]  
 - [x]  [Komplexity (KPLX)][thread:Komplexity]  
 - [x]  [Kaboom! (BOOM)][thread:Kaboom]  
 
