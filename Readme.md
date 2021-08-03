@@ -79,7 +79,8 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Installation Directions  
 
-- Use [![CKAN][CKAN:img]][CKAN:url]
+- Use  
+[![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies  
 
