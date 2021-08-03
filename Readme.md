@@ -3,64 +3,96 @@ Mini Sample Return Capsule (MSRC)
 created: 01 Oct 2019
 updated: 24 Jul 2021 -->  
 
-## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or ~~[SpaceDock][SPCDCK:url]~~. Also available on [CKAN][CKAN:url].  
+# Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. Also available on [CKAN][CKAN:url]  
 
 # KerbGuise Experimental engineering (KGEx)
-#### Brings you:
-# The Gold Standard (TGS)  
+
+#### Brings you  
+
+# Mini Sample Return Capsule (MSRC) 
+
 #### Adopted for curation by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@ColbaltWolf][LINK:cobaltwolf] and [@AlbertKermin][LINK:albertkermin]  
-##### Two part size zero (0.625m) autonomous return capsule to stuff your experiments in for Kerbal Space Program.
+
+##### Two part size zero (0.625m) autonomous return capsule to stuff your experiments in for Kerbal Space Program.  
+
 ![Mod Version][MOD:shld:latest] 
 ![KSP version][KSP:shld] [![License SimpleBSD-2][LICENSE:shld]][LICENSE:url]  
 
  [![Curseforge][CURSFG:shld]][CURSFG:url] [![CKAN][CKAN:shld]][CKAN:url] [![GitHub][GITHUB:shld]][GITHUB:url] [![SpaceDock][SPCDCK:shld]][SPCDCK:url]  
- 
+  
 ![KSP-AVC][AVC:shld] ![Validate AVC .version files][AVCVLD:shld]  
-### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
+
+### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program  
+
 ***
 ![IMG:hero:0]  
 
-### Preamble by [@CobaltWolf][LINK:cobaltwolf]: 
+### Preamble by [@CobaltWolf][LINK:cobaltwolf]  
+
 > Hello all! I have another new mod for you. A couple weeks ago, the incredibly handsome [@AlbertKermin][LINK:albertkermin] asked me if I was interested in making a mini-mod. Inspired by the OSIRIS-Rex mission, he wanted a small sample return capsule that could be loaded with experiments and safely return.
 
-#### Cabin notes:   
+#### Cabin notes  
+
 - The mod contains two parts, a command/parachute and Heatshield/cargo-bay.
 - Future Plans: lol. Accept compatibility patches, keep it working with future KSP updates.
 - I have not personally tested the patches   
 - Have a request? Glad to have them, kindly submit through GitHub.
 
-### Compatibility:
+### Compatibility  
+
 - RemoteTech configs are included.
 
 *** 
+
 ### Localization
+
 - [x]  English
 - [ ]  
+
 See the [README in the Localization folder][LINK:localization] for instructions for adding or improving translations for languages other than English. GitHub push is the best way to contribute.
-*** 
-  
-### How to support 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
-   
-*** 
-### Discussions: 
-*See [Discussions][MOD:disc] or [KSP Forums][MOD:threads] for discussions and news on this mod* 
-*** 
-### Changelog Summary  
-- *See [ChangeLog][MOD:clog] for full details of mod changes*  
+
 ***  
-### Known Issues
+  
+### How to support  
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+
+***  
+
+### Discussions  
+
+*See [Discussions][MOD:disc] or [KSP Forums][MOD:threads] for discussions and news on this mod*  
+
+***  
+
+### Changelog Summary  
+
+- *See [ChangeLog][MOD:clog] for full details of mod changes*  
+
+***  
+
+### Known Issues  
+
 - *See [Known Issues][MOD:known] for full details of feature requests, and known issues*
-*** 
+
+***  
+
 ### Installation Directions:
-- Use   
+
+- Use  
 [![CKAN][CKAN:img]][CKAN:url]
-### Dependencies
-- [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)
+
+### Dependencies  
+
+- [x]  [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)  
+
 ### Recommends  
+
 - [x] [Module Manager][thread:mm]  
-- [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]
-### Suggests
+- [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]  
+
+### Suggests  
+
 - [x]  [SimpleLogistics!][thread:SL!]  
 - [x]  [SimpleConstructon!][thread:SC!]  
 - [x]  [Not So SimpleConstructon!][thread:NSSC]  
@@ -83,32 +115,49 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - [x]  [The Gold Standard (TheGoldStandard)][thread:gold]  
 - [x]  [Komplexity (KPLX)][thread:Komplexity]  
 - [x]  [Kaboom! (BOOM)][thread:Kaboom]  
-### Supports
+
+### Supports  
+
 - [x]  [Kerbal Changelog][thread:kcl]  
 - [x]  [RemoteTech][thread:rt]  
-### Conflicts
+
+### Conflicts  
+
 - none
-### Replaces
+
+### Replaces  
+
 - none
-### Tags
+
+### Tags  
+
 - parts, addon, config
+
 ***  
 
 *red box below is a link to forum post on how to get support*  
 [![How to get support][SUPPORT:img]][SUPPORT:thread]  
+
 ### Legal Mumbo Jumbo
-#### Credits:
+
+#### Credits
+
 - @AlbertKermin - Configs, compatibility, balance
 - @CobaltWolf - Models, textures, Unity
 - @Deimos Rast - Compatibility configs 
+
 #### Current  
+
 Forum: [Thread][MOD:thread]  
 Source: [GitHub][GITHUB:url]  
 License: [![License SimpleBSD-2][LICENSE:shld]][LICENSE:url]  
-> *** All bundled mods are distributed under their own licenses***<br>
+
+> *** All bundled mods are distributed under their own licenses ***  
 > *** All art assets (textures, models, animations) are distributed under their own licenses ***  
 > [![License CC BY-NC-SA 4.0][LICENSE:spec:shld]][LICENSE:spec:url] [![][LICENSE:spec:logo] ][LICENSE:spec:url]  
-#### Original
+
+#### Original  
+
 Forum: [Thread][MOD:orig:thread]  
 Download: [Link][MOD:orig:download]  
 Source: [GitHub][MOD:orig:source]  
@@ -180,7 +229,7 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 [GITHUB:img]: https://i.imgur.com/RE4Ppr9.png "GitHub"  
 [GITHUB:shld]: https://img.shields.io/badge/Github-Indexed-blue.svg?labelColor=black&style=plastic&logo=github "GitHub"  
 
-[SPCDCK:url]: http://spacedock.info/mod/831 "SpaceDock"   
+[SPCDCK:url]: http://spacedock.info/mod/831 "SpaceDock"  
 [SPCDCK:img]: https://i.imgur.com/m0a7tn2.png "SpaceDock"  
 [SPCDCK:shld]:  https://img.shields.io/badge/SpaceDock-Listed-blue.svg?labelColor=black&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"  
 
@@ -190,14 +239,23 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 <!-- other mods -->
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"  
+
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
+
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
-[thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager" 
+
+[thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"  
+
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"  
+
 [thread:scnst]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"  
+
 [thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"  
+
 [thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"  
-[thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)" 
+
+[thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"  
+
 [thread:rt]:  http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"  
 
 [IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo_400x400.png "Mini Sample Return Capsule"  
@@ -205,33 +263,59 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
+
 [thread:FTF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Facility"
+
 [thread:FTL]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Lab"
+
 [thread:MHH]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
+
 [thread:TCP]:  https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"
+
 [thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke's Tiny Parts"
+
 [thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"
+
 [thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Scrap Yard"
+
 [thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions"
+
 [thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"
+
 [thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"
+
 [thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"
+
 [thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"
+
 [thread:DCB]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays"
+
 [thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"
+
 [thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
+
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
+
 [thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
+
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"
+
 [thread:B9StockPatches]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Switches"
+
 [thread:TheGoldStandard]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "The Gold Standard"  
+
 [thread:HB!]:  https:// "HotBeverages"
 
 [thread:DRELite]: https:// "DeadlyReentry Lite"
+
 [thread:StackInlineLights]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-* "Stock Inline Lights"
+
 [thread:StackInlineLightPatches]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-* "Stock Inline Lights Patches"
+
 [thread:Jettison]: http://forum.kerbalspaceprogram.com/index.php?/topic/138441-* "Jettison"
+
 [thread:Kaboom]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
+
 [thread:Komplexity]: https://forum.kerbalspaceprogram.com/index.php?/topic/202749-* "Komplexity"  
 
 <!-- financial support -->
