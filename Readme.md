@@ -165,10 +165,10 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 <!--- license  -->
 [LICENSE:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json&logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"  
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json?logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"  
 
 [LICENSE:orig:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
-[LICENSE:orig:shld]: https://img.shields.io/badge/license-SimpleBSD-ab2b28?style=style-for-the-badge&logo=FreeBSD&labelColor=white&logoColor=ab2b28 "SimpleBSD-2"  
+[LICENSE:orig:shld]: https://img.shields.io/badge/license-SimpleBSD-ab2b28?style=for-the-badge&logo=FreeBSD&labelColor=white&logoColor=ab2b28 "SimpleBSD-2"  
 
 [LICENSE:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
