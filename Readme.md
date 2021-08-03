@@ -172,7 +172,7 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 [LICENSE:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
-[LICENSE:spec:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json&logo=creativecommons&logoColor=ef9421 "CC BY-NC-SA 4.0"  
+[LICENSE:spec:shld]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"  
 
 
 <!--- misc logos -->
