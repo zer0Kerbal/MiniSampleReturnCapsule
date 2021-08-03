@@ -34,15 +34,15 @@ updated: 24 Jul 2021 -->
 #### Cabin notes  
 
 - The mod contains two parts, a command/parachute and Heatshield/cargo-bay.
-- Future Plans: lol. Accept compatibility patches, keep it working with future KSP updates.
-- I have not personally tested the patches   
+- Future Plans: lol. Except compatibility patches, keep it working with future KSP updates.
+- I have not personally tested the patches  
 - Have a request? Glad to have them, kindly submit through GitHub.
 
 ### Compatibility  
 
 - RemoteTech configs are included.
 
-*** 
+***  
 
 ### Localization
 
@@ -77,10 +77,9 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ***  
 
-### Installation Directions:
+### Installation Directions  
 
-- Use  
-[![CKAN][CKAN:img]][CKAN:url]
+- Use [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies  
 
@@ -214,7 +213,7 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 <!--- license  -->
 [LICENSE:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json?logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"  
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json&logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"  
 
 [LICENSE:orig:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
 [LICENSE:orig:shld]: https://img.shields.io/badge/license-SimpleBSD-ab2b28?logo=FreeBSD&labelColor=white&logoColor=ab2b28 "SimpleBSD-2"  
