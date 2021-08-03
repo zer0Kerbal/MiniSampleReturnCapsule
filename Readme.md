@@ -106,8 +106,8 @@ Forum: [Thread][MOD:thread]
 Source: [GitHub][GITHUB:url]  
 License: [![License SimpleBSD-2][LICENSE:shld]][LICENSE:url]  
 > *** All bundled mods are distributed under their own licenses***<br>
-> *** All art assets (textures, models, animations) are distributed under their own licenses*** 
-> *** [![License CC BY-NC-SA 4.0][LICENSE:spec:shld]][LICENSE:spec:url] [![][LICENSE:spec:logo] ][LICENSE:spec:url]  ***
+> *** All art assets (textures, models, animations) are distributed under their own licenses ***  
+> [![License CC BY-NC-SA 4.0][LICENSE:spec:shld]][LICENSE:spec:url] [![][LICENSE:spec:logo] ][LICENSE:spec:url]  
 #### Original
 Forum: [Thread][MOD:orig:thread]  
 Download: [Link][MOD:orig:download]  
