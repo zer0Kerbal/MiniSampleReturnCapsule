@@ -22,7 +22,10 @@ updated: 24 Jul 2021 -->
   
 ![KSP-AVC][AVC:shld] ![Validate AVC .version files][AVCVLD:shld]  
 
-### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program  
+### This mod adds two parts
+
+- command/parachute
+- heatshield/cargobay
 
 ***
 ![IMG:hero:0]  
