@@ -214,7 +214,7 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 <!--- license  -->
 [LICENSE:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json  
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json?logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"  
 
 [LICENSE:orig:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"  
 [LICENSE:orig:shld]: https://img.shields.io/badge/license-SimpleBSD-ab2b28?logo=FreeBSD&labelColor=white&logoColor=ab2b28 "SimpleBSD-2"  
