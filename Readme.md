@@ -181,7 +181,7 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 [MOD:clog]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/Changelog.cfg "Changelog"
 [MOD:disc]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/discussions "Discussions"
 [MOD:known]:  https://github.com/zer0Kerbal/MiniSampleReturnCapsule/wiki/Known-Issues "Known Issues"
-[MOD:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"
+[MOD:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/204186-* "Mod Forum Thread"
 [MOD:issues]:  https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues "Known Issues"
 [MOD:contrib]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/.github/CONTRIBUTING.md "Contributing"
 [LINK:localization]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/GameData/MiniSampleReturnCapsule/Localization/readme.md "Localization"
@@ -261,6 +261,8 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 
 [thread:rt]:  http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
 
+
+<!-- hero images -->
 [IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo_400x400.png "Mini Sample Return Capsule"
 [IMG:hero:1]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/kR5eT3n.png "Mini Sample Return Capsule"
 

@@ -1,0 +1,69 @@
+{
+	"SCHEMA": "1.0.1.0",
+	"__THISFILELICENSE___": "GPLv2",
+	"__THISFILEBY___": "zer0Kerbal",
+	"MODNAME": "Mini Sample Return Capsule",
+	"ABBV": "MSRC",
+	"AUTHOR": "CobaltWolf, AlbertKermin, zer0Kerbal",
+	"MODFOLDER": "MiniSampleReturnCapsule",
+	"SUBFOLDER": "",
+	"VERSIONFILE": "auto",
+	"MODTYPE": "Parts",
+	"RELEASESDIR": "Releases",
+	"CHANGELOG": "Changelog.md",
+	"KSPVERSION": "1.12.1",
+	"LICENSE": "SimpleBSD-2",
+	"TAGS": "Config, Parts",
+	"CKAN": {
+		"IDENTIFIER": "MiniSampleReturnCapsuleVesselAssembly",
+		"DRAFT": false,
+		"PRERELEASE": false
+	},
+	"URL": {
+		"SPACEDOCK_ID": "831",
+		"CURSEFORGE": "MiniSampleReturnCapsule",
+		"GITHUB": "zer0Kerbal/MiniSampleReturnCapsule",
+		"FORUM": "204186"
+	},
+	"ORIGURL": {
+		"SPACEDOCK_ID": "831",
+		"CURSEFORGE": "MiniSampleReturnCapsule",
+		"GITHUB": "EleusisLaArwall/MiniSampleReturnCapsule-VesselAssembly",
+		"FORUM": "143414",
+		"LICENSE": "BSD-2"
+	},
+	"CODE": {
+		"DNET": "config",
+		"UNIT": "",
+		"LANG": "Module Manager"
+	},
+	"DEPENDS": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"RECOMMENDS": [
+		{ "MODNAME": "Module Manager", "MODURL": "https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*", "CKANID": "ModuleManager" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"SUPPORTS": [
+		{ "MODNAME": "Kerbal Changelog", "MODURL": "https://forum.kerbalspaceprogram.com/index.php?/topic/200702-*", "CKANID": "KerbalChangelog" },
+		{ "MODNAME": "TweakScale - Rescale Everything!", "MODURL": "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*", "CKANID": "TweakScale" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"SUGGESTS": [
+		{ "MODNAME": "Kerbal Changelog", "MODURL": "https://forum.kerbalspaceprogram.com/index.php?/topic/200702-*", "CKANID": "KerbalChangelog" },
+		{ "MODNAME": "TweakScale - Rescale Everything!", "MODURL": "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*", "CKANID": "TweakScale" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" },
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"CONFLICTS": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	],
+	"REPLACES": [
+		{ "MODNAME": "", "MODURL": "", "CKANID": "" }
+	]
+}
