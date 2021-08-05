@@ -91,7 +91,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Recommends  
 
-- [x] [Module Manager][thread:mm]  
+- [x]  [Module Manager][thread:mm]  
 - [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]  
 
 ### Suggests  
