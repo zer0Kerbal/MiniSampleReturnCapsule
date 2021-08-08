@@ -91,7 +91,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Recommends  
 
-- [x] [Module Manager][thread:mm]  
+- [x]  [Module Manager][thread:mm]  
 - [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]  
 
 ### Suggests  
@@ -145,9 +145,10 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 #### Credits
 
-- @AlbertKermin - Configs, compatibility, balance
-- @CobaltWolf - Models, textures, Unity
-- @Deimos Rast - Compatibility configs 
+- [@AlbertKermin][LINK:albertkermin] - Configs, compatibility, balance
+- [@CobaltWolf][LINK:cobaltwolf] - Models, textures, Unity
+- [@Deimos Rast][LINK:deimosrast] - Compatibility configs 
+- [@`zer0Kerbal`][LINK:zer0Kerbal] 
 
 #### Current  
 
@@ -203,10 +204,11 @@ License: [![License SimpleBSD-2][LICENSE:orig:shld]][LICENSE:orig:url]
 [MOD:orig:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-* "Original Thread"
 
 [LINK:cobaltwolf]:   https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
-[LINK:albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "AlbertKermin"
+[LINK:albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "AlbertKermin"  .
+[LINK:deimosrast]: https://forum.kerbalspaceprogram.com/index.php?/profile/157420-deimos-rast/ "Deimos Rast"  
 
 <!--- statics -->
-[LINK:zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
+[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 
 [SUPPORT:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "How to get support"
 [SUPPORT:img]:    https://i.postimg.cc/vHP6zmrw/image.png
