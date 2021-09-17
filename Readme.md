@@ -350,7 +350,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [IMG:hero:1]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/kR5eT3n.png "Mini Sample Return Capsule"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-MonoPropellant-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
