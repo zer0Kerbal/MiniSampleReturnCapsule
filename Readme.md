@@ -97,8 +97,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 ### Recommends  
 
 - [x] [Module Manager][thread:mm] [^2]  
-
-- [x] [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url] [^3]  
+- [x] [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url] [^3]
 
 ### Suggests  
 
@@ -172,6 +171,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - [`@AlbertKermin`][LINK:albertkermin] - Configs, compatibility, balance
 - [`@CobaltWolf`][LINK:cobaltwolf] - Models, textures, Unity
 - [`@Deimos Rast`][LINK:deimosrast] - Compatibility configs 
+
 
 ### Legal Mumbo Jumbo (License)
 
@@ -247,7 +247,6 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LICENSE:spec:shld]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
-
 <!--- AVC --->
 [AVC:shld]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [AVCVLD:shld]:    https://github.com/zer0Kerbal/MiniSampleReturnCapsule/workflows/Validate%20AVC%20.version%20files/badge.svg
@@ -318,7 +317,6 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [thread:SCON!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
 [thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife!"
 [thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
-
 
 <!-- other mods -->
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"
