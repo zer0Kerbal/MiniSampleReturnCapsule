@@ -11,7 +11,7 @@ updated: 03 Aug 2021 -->
 
 # Mini Sample Return Capsule (MSRC) 
 
-#### Adopted for curation by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@ColbaltWolf][LINK:cobaltwolf] and [@AlbertKermin][LINK:albertkermin]  
+#### Adopted for curation by [`@zer0Kerbal`][LINK:zer0Kerbal], originally by [`@ColbaltWolf`][LINK:cobaltwolf] and [`@AlbertKermin`][LINK:albertkermin]  
 
 ##### Two part size zero (0.625m) autonomous return capsule to stuff your experiments in for Kerbal Space Program.  
 
@@ -30,7 +30,7 @@ updated: 03 Aug 2021 -->
 ***
 ![IMG:hero:0]  
 
-### Preamble by [@CobaltWolf][LINK:cobaltwolf]  
+### Preamble by [`@CobaltWolf`][LINK:cobaltwolf]  
 
 > Hello all! I have another new mod for you. A couple weeks ago, the incredibly handsome [@AlbertKermin][LINK:albertkermin] asked me if I was interested in making a mini-mod. Inspired by the OSIRIS-Rex mission, he wanted a small sample return capsule that could be loaded with experiments and safely return.
 
