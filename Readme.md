@@ -53,8 +53,6 @@ This mod adds two parts
 > - Have a request? Glad to have them, kindly submit through GitHub.
 > - Would love to see one or more textures that could be set as variants. Would need help with the textures. :D
 
-***
-
 ### Localization
 
 - [x]  English
@@ -94,8 +92,8 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 ### Recommends  
 
 - [x] [Module Manager][thread:mm] [^2]  
+- [x] [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url] [^3]
 
-- [x] [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url] [^3]  
 
 ### Suggests  
 
@@ -210,23 +208,15 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [MOD:contrib]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/.github/CONTRIBUTING.md "Contributing"
 [LINK:localization]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/GameData/MiniSampleReturnCapsule/Localization/readme.md "Localization"
 
-[MOD:license]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/LICENSE "Github License"
-[MOD:issues]:  https://github.com/zer0Kerbal/MiniSampleReturnCapsule/wiki/Known-Issues "GitHub Issues"
-
+<!--- original mod -->
 [MOD:shld:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json
 
 [CODE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/code.json
-
-<!--- original mod -->
-
 
 <!--- release links -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
 [CKAN:shld]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?labelColor=black&style=plastic "CKAN"
-
-[AVC:shld]:  https://img.shields.io/badge/AVC-Supported-brightgreen.svg?style=plastic "AVC"
-[AVCVLD:shld]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid"
 
 <!--- original mod -->
 [MOD:orig:source]: https://spacedock.info/mod/831 "SpaceDock"
@@ -243,7 +233,6 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [LICENSE:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
 [LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LICENSE:spec:shld]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
-
 
 <!--- AVC --->
 [AVC:shld]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
@@ -316,7 +305,6 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife!"
 [thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
 
-
 <!-- other mods -->
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"
 [thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
@@ -351,6 +339,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
+
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
