@@ -145,10 +145,10 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 #### Credits
 
-- [@AlbertKermin][LINK:albertkermin] - Configs, compatibility, balance
-- [@CobaltWolf][LINK:cobaltwolf] - Models, textures, Unity
-- [@Deimos Rast][LINK:deimosrast] - Compatibility configs 
-- [@`zer0Kerbal`][LINK:zer0Kerbal] 
+- [`@AlbertKermin`][LINK:albertkermin] - Configs, compatibility, balance
+- [`@CobaltWolf`][LINK:cobaltwolf] - Models, textures, Unity
+- [`@Deimos Rast`][LINK:deimosrast] - Compatibility configs 
+- [`@zer0Kerbal`][LINK:zer0Kerbal] 
 
 #### Current  
 
