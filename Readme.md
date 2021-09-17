@@ -43,8 +43,6 @@ This mod adds two parts
 
 ![Flag][IMG:flg:0]  
 ![Hero Image][IMG:hero:0]  
-![IMG:hero:0]  
-
 
 #### Cabin notes  
 
@@ -54,7 +52,6 @@ This mod adds two parts
 > - I have not personally tested the patches  
 > - Have a request? Glad to have them, kindly submit through GitHub.
 > - Would love to see one or more textures that could be set as variants. Would need help with the textures. :D
-
 
 ***
 
