@@ -235,7 +235,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 <!--- license  -->
 [LICENSE:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json&logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json
 
 [LICENSE:orig:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
 [LICENSE:orig:shld]: https://img.shields.io/badge/license-SimpleBSD-ab2b28?logo=FreeBSD&labelColor=white&logoColor=ab2b28 "SimpleBSD-2"
@@ -245,7 +245,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 [LICENSE:spec:shld]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 
-<!--- AVC --->
+<!--- AVC &logo=FreeBSD&logoColor=ab2b28 "SimpleBSD-2"--->
 [AVC:shld]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [AVCVLD:shld]:    https://github.com/zer0Kerbal/MiniSampleReturnCapsule/workflows/Validate%20AVC%20.version%20files/badge.svg
 
