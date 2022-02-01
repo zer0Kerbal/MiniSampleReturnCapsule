@@ -187,7 +187,7 @@ labels:
     color: 5ebeff
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
-  - name: Mod-request
+  - name: "Mod-request"
     new-name: "type: request"
     color: 5ebeff
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
@@ -230,11 +230,11 @@ labels:
     description: upstream or side stream
 
   - name: "pull request"
-    new-name: "pull request"
+    new-name: "type: pull request"
     color: FFFFF0
     description: upstream or side stream
 
- - name: "type: archive"
+  - name: "type: archive"
     color: FFFFF0
     description: archive
 
