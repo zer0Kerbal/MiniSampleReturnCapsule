@@ -1,19 +1,17 @@
 <!--
-Localizations.md v1.0.0.0
+Localizations.md v1.0.1.0
 Mini Sample Return Capsule (MSRC)
 created: 01 Feb 2022
-updated: 
+updated: 01 Feb 2022
 -->
 
 # Mini Sample Return Capsule (MSRC)
 
 has been translated into the following languages:
+- [x] [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
+- [x] [![Português Brasil][BR]][BR] [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  
 
 ## These localizations for KSP and its DLC's are available through Steam:
-
-- [x] [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
-
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 
 - [ ] [![Deutsch][DE]][DE] [German (Deutsch)][DE]  <de.cfg>  
 
@@ -42,11 +40,6 @@ has been translated into the following languages:
 - [ ] [![日本語][JA]][JA] [Japanese(日本語)][JA] <ja.cfg>  
 
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
-
-- [ ] [![Português Brasil][BR]][BR] [Brazil Portuguese (Português Brasil)][BR] <pt-br.cfg>  
-
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
-
 
 ## Included just in case
 
@@ -86,5 +79,9 @@ has been translated into the following languages:
 <!-- Localization -->
 [URL:lclztn]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Localization" 
 [URL:qs]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Quick Start"
+
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal>
