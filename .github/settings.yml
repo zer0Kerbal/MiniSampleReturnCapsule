@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*
   
   # A comma-separated list of topics to set on the repository
-  topics: sample,experiment,capsule,size0,return,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
+  topics: sample,experiment,capsule,size0,return,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
