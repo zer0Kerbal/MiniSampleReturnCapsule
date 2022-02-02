@@ -13,7 +13,6 @@ jobs:
       uses: niteoweb/export-issues-action@v2
       with:
         repo: ${{ github.repository }}
-        org: ${{ github.repository_owner }}
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         out: issues
     - name: Archive production artifacts
