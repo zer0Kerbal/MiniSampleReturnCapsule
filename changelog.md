@@ -19,7 +19,7 @@ updated: 01 Feb 2022
 
 ## Version 1.4.2.0 - [01 Feb 2022] for KSP 1.12.3
 
-### 1.4.0.0 Localization
+### 1.4.2.0 Localization
 
 * added <pt-br.cfg>
 * Brazil Portuguese (Português Brasil) - Thank you [soldanithiago](https://github.com/soldanithiago)
@@ -71,12 +71,12 @@ updated: 01 Feb 2022
 
 * [mrsc-cargobay]
   * [ModuleCargoPart] was 125 now 100
-    * type = hemisphere
+    * type = cylinder
     * radius = 0.3125m
-    * height = 0.37m
-    * volume =  0.06392 m³
-    * m³ x 1000L = 63.92 m³
-    * packedVolume = 64
+    * height = 0.32m
+    * volume =  0.09511 m³
+    * m³ x 1000L = 95.11 m³
+    * packedVolume = 100
   * Update
     *  Add zer0Kerbal to [author]
     * [maximum_drag] changed from 0.2 to 0.1
@@ -87,12 +87,12 @@ updated: 01 Feb 2022
       * [lookupRadius] changed from 0.9 to 0.4
 * [mrsc-parachute]
   * [ModuleCargoPart] was 100 now 75
-    * type = cylinder
+    * type = hemisphere
     * radius = 0.3125m
     * height = 0.37m
-    * volume =  0.09511 m³
-    * m³ x 1000L = 95.11 m³
-    * packedVolume = 96
+    * volume =  0.06392 m³
+    * m³ x 1000L = 63.92 m³
+    * packedVolume = 75
   * Update
     *  Add zer0Kerbal to [author]
     * [maximum_drag] changed from 0.2 to 0.3
