@@ -24,6 +24,7 @@ updated: 01 Feb 2022
 * added <pt-br.cfg>
 * Brazil Portuguese (Português Brasil) - Thank you [soldanithiago](https://github.com/soldanithiago)
 * added localization quickstart.md
+* closes #34 - Localization - Brazil Portuguese (Portugu├¬s Brasil) <pt-br.cfg> 
 
 ### Added
 
@@ -31,6 +32,23 @@ updated: 01 Feb 2022
   * [Kerbalism.cfg] v1.0.0.0
   * Thank you [Breach Candy#6218]
   * closes #47 - Kerbalism config
+  
+### Compatibility Patches
+
+* Add
+  * [TweakScale.cfg] v1.0.1.9
+  * [KerbNet.cfg] v1.0.1.9
+  * [GPOSppedFuelPump.cfg] v1.0.1.9
+  * [CommunityCategoryKit.cfg] v1.0.1.9
+* Update
+  * [RemoteTech.cfg] v1.0.1.9
+  * [kOS.cfg] v1.0.1.9
+* Related Issues:
+  * closes #65 - TweakScale.cfg
+  * closes #64 - KerbNet.cfg
+  * closes #63 - GPOSppedFuelPump.cfg
+  * closes #62 - CommunityCategoryKit.cfg
+  * closes #61 - Add Compatibility
   
 ### Convert Change Log
 
@@ -59,6 +77,14 @@ updated: 01 Feb 2022
     * volume =  0.06392 m³
     * m³ x 1000L = 63.92 m³
     * packedVolume = 64
+  * Update
+    *  Add zer0Kerbal to [author]
+    * [maximum_drag] changed from 0.2 to 0.1
+    * [angularDrag] changed from 2 to 1.5
+    * [maxTemp] changed from 2900 to 2500
+    * [thermalMassModifier] changed from 5.0 to 1.0 
+    * [ModuleCargoBay]
+      * [lookupRadius] changed from 0.9 to 0.4
 * [mrsc-parachute]
   * [ModuleCargoPart] was 100 now 75
     * type = cylinder
@@ -67,6 +93,22 @@ updated: 01 Feb 2022
     * volume =  0.09511 m³
     * m³ x 1000L = 95.11 m³
     * packedVolume = 96
+  * Update
+    *  Add zer0Kerbal to [author]
+    * [maximum_drag] changed from 0.2 to 0.3
+    * [minimum_drag] = 0.3 to 0.1
+    * [angularDrag] changed from 2 to 1.5
+    * [ModuleCommand]
+      * Add [hasHibernation] = True
+      * Add [hibernation] = False
+      * Add [hibernateOnWarp] = True
+      * Add [hibernationMultiplier] = 0.00125
+    * [ModuleReactionWheel
+      * Add [hasHibernation] = True
+      * Add [hibernation] = False
+      * Add [hibernationMultiplier] = 0.00125
+    * [ModuleSAS]
+      * [SASServiceLevel] changed from 1 to 2
 
 ### 1.4.2.0 Maintenance
 
@@ -81,22 +123,24 @@ updated: 01 Feb 2022
 ### 1.4.2.0 Status
 
 * Issues
-  * closes #18 - 1.4.1.0 - contributed by zer0Kerbal
-  * closes #7 - Localization.md bug
-  * closes #10 - [ModuleCargoPart] packedVolume seems a tad high bug
-  * closes #15 - duplicate
-  * closes #16 - Tarsier Space Tech compatibility
-  * closes #17 - add kOS compatibility
-  * closes #20 - RemoteTech.cfg
-  * closes #29 - duplicate
-
-### 1.4.2.0 Possible future changes
-
-* ***❓ ❔ seems high : ❓ ❔***
-  * [breakingForce = 50]
-  * [breakingTorque = 50] seems high ???
-  * [crashTolerance = 12]
-
+  * closes #45 - Localization - English (United States)] <en-us.cfg>
+  * closes #47 - Kerbalism config
+  * closes #48 - Update Mini Science Return Capsule (end beta) (MSRC) 1.4.2.0
+  * closes #51 - Release 1.4.2.0-release <To kerbal or to not kerbal...>  
+  * closes #52 - Version 1.4.2.0-release
+  * closes #53 - 1.4.2.0 Verify Legal MumboJumbo
+  * closes #54 - 1.4.2.0 Update documentation
+  * closes #55 - 1.4.2.0 - Social Media
+  * closes #56 - 1.4.2.0 Update release notes
+  * closes #57 - 1.4.2.0 Update changelog
+  * closes #58 - 1.4.2.0 Update readme
+  * closes #8 - Localization
+  * closes #25 - # Version 1.4.1.0
+  * closes #28 - Localization - en-us.cfg (English)
+  * closes #27 - Localization - pt-br.cfg Brazil
+  * closes #26 - Localization - zh-cn.cfg - Simplified Chinese
+* Updates
+  * updates #46 - Localization - Master
 ---
 
 ## Version 1.4.1.0 - Packed and ready to return
