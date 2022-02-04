@@ -99,11 +99,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports  
 
 * ***NEW*** [Kerbalism][thread:kerb]
-* ***NEW*** [SCANSat][thread:scan]
+* ***NEW*** [[GPOSpeedFuelPump ]][thread:gpo]
+* ***NEW*** [Community Category Kit][thread:cck]
 * [Kerbal Operating System (kOS)][thread:kos]
 * [RemoteTech][thread:rt]  
 * [Tarsier Space Tech][thread:tss]  
 * [TweakScale][thread:twk]  
+
+
 
 ---
 
@@ -201,6 +204,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:tss]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-* "Tarsier Space Tech"
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
 [thread:kerb]: https://forum.kerbalspaceprogram.com/index.php?/topic/201171-* "Kerbalism"
+[thread:gpo]: http://forum.kerbalspaceprogram.com/index.php?/topic/137489-* "GPOSpeedFuelPump"
+[thread:cck]: https://github.com/UmbraSpaceIndustries/CommunityCategoryKit "Community Category Kit"
 [thread:scan]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANSat"
 
 <!--- statics -->
