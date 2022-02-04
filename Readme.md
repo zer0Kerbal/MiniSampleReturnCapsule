@@ -207,6 +207,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:gpo]: http://forum.kerbalspaceprogram.com/index.php?/topic/137489-* "GPOSpeedFuelPump"
 [thread:cck]: https://github.com/UmbraSpaceIndustries/CommunityCategoryKit "Community Category Kit"
 [thread:scan]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANSat"
+[thread:kos]: https://forum.kerbalspaceprogram.com/index.php?/topic/165628-* "Kerbal Operating System"
 
 <!--- statics -->
 [LINK:albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "AlbertKermin"
@@ -214,7 +215,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [LINK:deimosrast]: https://forum.kerbalspaceprogram.com/index.php?/profile/157420-deimos-rast/ "Deimos Rast"
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:soldanithiago]: https://github.com/soldanithiago "soldanithiago"
-[LINK:breachcandy]:  "Breach Candy#6128"
+[LINK:breachcandy]:  http:// "Breach Candy#6128"
 
 <!--- misc logos -->
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
