@@ -141,6 +141,7 @@ updated: 01 Feb 2022
   * closes #26 - Localization - zh-cn.cfg - Simplified Chinese
 * Updates
   * updates #46 - Localization - Master
+  
 ---
 
 ## Version 1.4.1.0 - Packed and ready to return
