@@ -7,4 +7,8 @@ title: Welcome to the MiniSampleReturnCapsule wiki!
 
 
 [Parts]
-[Localizations](/Localizations.html) for this [mod:](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/docs/Localizations.md)
+[Localizations](/Localizations.html) included for Mini Sample Return Capsule
+
+## Release Notes
+
+* [1.4.0.0](/ReleaseNotes/1.4.0.0.html)
