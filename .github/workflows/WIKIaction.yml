@@ -1,16 +1,15 @@
+# 1.0.0.0 - 05 Feb 2022
+# https://github.com/marketplace/actions/wiki-action
 name: Update Wiki
 
-# on: 
-    push:
-    workflow_dispatch:
-
-# recommended
-on:
+on: 
   push:
     paths:
       - 'wiki/**'
+      - 'docs/**'
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   build:
