@@ -1,3 +1,7 @@
+---
+permalink: /Home.html
+permalink: /index.html
+---
 # Welcome to the MiniSampleReturnCapsule wiki!
 
 
