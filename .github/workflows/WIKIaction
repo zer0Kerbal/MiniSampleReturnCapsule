@@ -1,0 +1,25 @@
+name: Update Wiki
+
+# on: 
+    [push]:
+    workflow_dispatch:
+
+# recommended
+on:
+  push:
+    paths:
+      - 'wiki/**'
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - uses: ineshbose/wiki-action@v1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WIKI_DIR: 'wiki'
+          AUTO_SIDEBAR: true
