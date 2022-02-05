@@ -1,5 +1,5 @@
 ---
-permalink: /Home.html
+permalink: /index.html
 title: Welcome to the MiniSampleReturnCapsule wiki!
 ---
 
