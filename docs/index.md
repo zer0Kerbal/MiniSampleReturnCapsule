@@ -4,6 +4,9 @@ permalink: /index.html
 
 # Welcome to the MiniSampleReturnCapsule wiki!
 
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Parts
+> Part thumbnails and basic stats
+
 ## Parts
 
 [Parts]
