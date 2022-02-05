@@ -1,5 +1,6 @@
 ---
 permalink: /Home.html
+title: Welcome to the MiniSampleReturnCapsule wiki!
 ---
 
 # Welcome to the MiniSampleReturnCapsule wiki!
