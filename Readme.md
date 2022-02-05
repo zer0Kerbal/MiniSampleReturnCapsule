@@ -99,7 +99,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports  
 
 * ***NEW*** [Kerbalism][thread:kerb]
-* ***NEW*** [[GPOSpeedFuelPump ]][thread:gpo]
+* ***NEW*** [GPOSpeedFuelPump ][thread:gpo]
 * ***NEW*** [Community Category Kit][thread:cck]
 * [Kerbal Operating System (kOS)][thread:kos]
 * [RemoteTech][thread:rt]  
