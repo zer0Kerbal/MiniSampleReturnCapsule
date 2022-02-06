@@ -26,7 +26,7 @@ jobs:
         run: |
           cd ${{github.workspace}}
           git config --global user.email "Bot@Example.com"
-          git config --global user.name "DaanV2 Bot"
+          git config --global zer0kerbal "zed'K Bot"
           git add .
           git commit -m "auto: Generated markdown indexes"
           git push
