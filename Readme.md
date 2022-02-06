@@ -27,6 +27,8 @@ This mod adds two parts
 
 ---
 
+[github.io](https://zer0kerbal.github.io/MiniSampleReturnCapsule/)
+
 ![Flag][IMG:flg:0]  
 ![Hero Image][IMG:hero:0]  
 
