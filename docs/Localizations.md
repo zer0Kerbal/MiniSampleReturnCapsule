@@ -4,6 +4,9 @@ Mini Sample Return Capsule (MSRC)
 created: 01 Feb 2022
 updated: 01 Feb 2022
 -->
+---
+permalink: /localizations.html
+---
 
 # Mini Sample Return Capsule (MSRC)
 
