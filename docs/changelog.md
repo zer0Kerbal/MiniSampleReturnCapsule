@@ -17,7 +17,7 @@ updated: 01 Feb 2022
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
-## Version 1.4.2.1 - `<NAME>`
+## Version 1.4.2.1 - `<Before, For, After>`
 
 ### This is PRE-RELEASE - and WILL break saves
 
