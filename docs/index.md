@@ -1,10 +1,12 @@
 # 
 
 ## Categories
+- [LegalMumboJumbo](./LegalMumboJumbo/index.md)
 - [ReleaseNotes](./ReleaseNotes/index.md)
 
 ## Documents
 - [404](404.md)
+- [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
 - [changelog](changelog.md)
 - [partsInvoice](partsInvoice.md)
