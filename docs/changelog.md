@@ -33,7 +33,8 @@ updated: 01 Feb 2022
 * [Kerbalism.cfg] v1.0.1.0
   * Thank you [AmanitaVerna]
   * 'more than one pass specifier detected'
-  * removed :AFTER[KerbalismDefault] and kept :FOR[MiniSampleReturnCapsule]
+  * removed :FOR[MiniSampleReturnCapsule] and kept :BEFORE/AFTER[KerbalismDefault]
+  * concerned that calling KerbalismDefault will tell MM that it is installed.
   * fixes #71 - [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
 
 ### Update
