@@ -1,13 +1,25 @@
 ---
-permalink: /partsInvoice.html
+permalink: /PartInvoice.html
+title: Parts Invoice
+description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
+# layout: bare
+tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 
+<!-- PartInvoice.md v1.1.3.1
+Mini Sample Return Capsule (MSRC)
+created: 01 Feb 2022
+updated: 30 Mar 2022 -->
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 # Mini Sample Return Capsule (MSRC)
+
+[Home](/index.md)
 
 ## Parts Invoice
 
-![Reentry Segment](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-parachute_icon.png)
+<!-- ![Reentry Segment](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-parachute_icon.png) -->
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/GameData/MiniSampleReturnCapsule/Parts/%40thumbs/msrc-parachute_icon.png" alt="Reentry Segment" width="25%" height="25%" />
 
 ### BDB/AKI-001EDL Sample Return Device - Reentry Segment
 
@@ -27,7 +39,8 @@ permalink: /partsInvoice.html
 * Entry cost = 2500
 * Cost =  725
 
-![Cargo Bay](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-cargoBay_icon.png)
+<!-- ![Cargo Bay](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-cargoBay_icon.png) -->
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/GameData/MiniSampleReturnCapsule/Parts/%40thumbs/msrc-cargoBay_icon.png" alt="Cargo Bay" width="25%" height="25%" />
 
 ### BDB/AKI-001EDL Sample Return Device - Reentry Segment
 
@@ -41,4 +54,7 @@ permalink: /partsInvoice.html
 * 50 Ablator
 * Packed Volume of 100
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal>
+---
+
+[top](#Parts-Invoice)
+<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal>

@@ -1,5 +1,8 @@
-# .gitattributes v2.0.1.0
-# add git lfs support for .psd
+# .gitattributes v2.0.3.0
+# remove git lfs
+#
+# handle .imgbotconfig
+*.imgbotconfig linguist-language=json
 # Auto detect text files and perform LF normalization
 # http://davidlaing.com/2012/09/19/customise-your-gitattributes-to-become-a-git-ninja/
 * text=auto
@@ -24,7 +27,7 @@
 *.jpg binary
 *.dds binary
 *.tga binary
-*.psd filter=lfs diff=lfs merge=lfs -text
+*.psd binary
 *.mu  binary
 *.mbm binary
 ###############################################################################
