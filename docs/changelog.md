@@ -17,130 +17,43 @@ updated: 01 Feb 2022
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
-## Version 1.4.2.0 - [01 Feb 2022] for KSP 1.12.3
+## Version 1.4.2.1 - `<Before, For, After>`
 
-### 1.4.2.0 Localization
+### This is PRE-RELEASE - and WILL break saves
 
-* added <pt-br.cfg>
-* Brazil Portuguese (Português Brasil) - Thank you [soldanithiago](https://github.com/soldanithiago)
-* added localization quickstart.md
-* closes #34 - Localization - Brazil Portuguese (Portugu├¬s Brasil) <pt-br.cfg> 
+* 30 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
 
-### Added
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
 
-* Kerbalism compatibility
-  * [Kerbalism.cfg] v1.0.0.0
-  * Thank you [Breach Candy#6218]
-  * closes #47 - Kerbalism config
-  
-### Compatibility Patches
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
-* Add
-  * [TweakScale.cfg] v1.0.1.9
-  * [KerbNet.cfg] v1.0.1.9
-  * [GPOSppedFuelPump.cfg] v1.0.1.9
-  * [CommunityCategoryKit.cfg] v1.0.1.9
-* Update
-  * [RemoteTech.cfg] v1.0.1.9
-  * [kOS.cfg] v1.0.1.9
-* Related Issues:
-  * closes #65 - TweakScale.cfg
-  * closes #64 - KerbNet.cfg
-  * closes #63 - GPOSppedFuelPump.cfg
-  * closes #62 - CommunityCategoryKit.cfg
-  * closes #61 - Add Compatibility
-  
-### Convert Change Log
+### Fixed
 
-* From Kerbal ChangeLog to markdown
-* Convert [Changelog.cfg] --> [changelog.md]
-* Create changelog.md
-* Delete Changelog.cfg
-* closes #57 - 1.4.2.0 Update changelog
-  
-### Wiki
+* [Kerbalism.cfg] v1.0.1.0
+  * Thank you [AmanitaVerna]
+  * 'more than one pass specifier detected'
+  * removed :FOR[MiniSampleReturnCapsule] and kept :BEFORE/AFTER[KerbalismDefault]
+  * concerned that calling KerbalismDefault will tell MM that it is installed.
+  * fixes #71 - [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
 
-* Added localization.md
+### Update
 
-### Part Volume Math
+* docs/
+* automation
+* documentation
+* [MiniSampleReturnCapsule.version]
+  * removed
+    * [KSP_VERSION_MAX]
 
-| ***part        |   style    | diameter (m) | height (m) | width (m |   math   | radius (m) |      m³ | Liters*** |
-| :------------- | :--------: | -----------: | ---------: | -------: | :------: | ---------: | ------: | --------: |
-| msrc-parachute | hemisphere |        0.625 |       0.37 |          | (2/3)πr³ |     0.3125 | 0.06392 |     63.92 |
-| msrc-cargobay  |  cylinder  |        0.625 |       0.31 |          |   πr²h   |     0.3125 | 0.09511 |     95.11 |
-
-* [mrsc-cargobay]
-  * [ModuleCargoPart] was 125 now 100
-    * type = cylinder
-    * radius = 0.3125m
-    * height = 0.32m
-    * volume =  0.09511 m³
-    * m³ x 1000L = 95.11 m³
-    * packedVolume = 100
-  * Update
-    *  Add zer0Kerbal to [author]
-    * [maximum_drag] changed from 0.2 to 0.1
-    * [angularDrag] changed from 2 to 1.5
-    * [maxTemp] changed from 2900 to 2500
-    * [thermalMassModifier] changed from 5.0 to 1.0 
-    * [ModuleCargoBay]
-      * [lookupRadius] changed from 0.9 to 0.4
-* [mrsc-parachute]
-  * [ModuleCargoPart] was 100 now 75
-    * type = hemisphere
-    * radius = 0.3125m
-    * height = 0.37m
-    * volume =  0.06392 m³
-    * m³ x 1000L = 63.92 m³
-    * packedVolume = 75
-  * Update
-    *  Add zer0Kerbal to [author]
-    * [maximum_drag] changed from 0.2 to 0.3
-    * [minimum_drag] = 0.3 to 0.1
-    * [angularDrag] changed from 2 to 1.5
-    * [ModuleCommand]
-      * Add [hasHibernation] = True
-      * Add [hibernation] = False
-      * Add [hibernateOnWarp] = True
-      * Add [hibernationMultiplier] = 0.00125
-    * [ModuleReactionWheel
-      * Add [hasHibernation] = True
-      * Add [hibernation] = False
-      * Add [hibernationMultiplier] = 0.00125
-    * [ModuleSAS]
-      * [SASServiceLevel] changed from 1 to 2
-
-### 1.4.2.0 Maintenance
-
-* Incremental Upgrades
-  * minor housekeeping
-  * linting and duct taping
-  * patch dusting (mostly removing construction dust (comments)
-  * modernization, polish, update pass on part.cfg's
-  * automated back end processes.
-  * consolidated footer in files
-
-### 1.4.2.0 Status
+### Status
 
 * Issues
-  * closes #45 - Localization - English (United States)] <en-us.cfg>
-  * closes #47 - Kerbalism config
-  * closes #48 - Update Mini Science Return Capsule (end beta) (MSRC) 1.4.2.0
-  * closes #51 - Release 1.4.2.0-release <To kerbal or to not kerbal...>  
-  * closes #52 - Version 1.4.2.0-release
-  * closes #53 - 1.4.2.0 Verify Legal MumboJumbo
-  * closes #54 - 1.4.2.0 Update documentation
-  * closes #55 - 1.4.2.0 - Social Media
-  * closes #56 - 1.4.2.0 Update release notes
-  * closes #57 - 1.4.2.0 Update changelog
-  * closes #58 - 1.4.2.0 Update readme
-  * closes #8 - Localization
-  * closes #25 - # Version 1.4.1.0
-  * closes #28 - Localization - en-us.cfg (English)
-  * closes #27 - Localization - pt-br.cfg Brazil
-  * closes #26 - Localization - zh-cn.cfg - Simplified Chinese
-* Updates
-  * updates #46 - Localization - Master
+  * closes #73 Mini Sample Return Capsule 1.4.2.1-release `<NAME>`
+  * closes #74 1.4.2.1 Verify Legal Mumbo Jumbo
+  * closes #75 1.4.2.1 Update Documentation
+  * closes #76 1.4.2.1 Update Social Media
+  * closes #71 [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
 
 ---
 
