@@ -8,6 +8,7 @@
         "GameData/MiniSampleReturnCapsule/Parts/@thumbs/*",
         "GameData/*",
         "docs/LegalMumboJumbo/*",
+        "**/LegalMumboJumbo/**",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
