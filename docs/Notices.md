@@ -16,7 +16,7 @@ based upon work by LisiasT -->
 
 Mini Sample Return Capsule (MSRC)
 
-[Home](./index.html)
+[Home](./index.md)
 
 ## Trademarks
 
