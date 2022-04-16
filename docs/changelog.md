@@ -11,22 +11,52 @@ updated: 01 Feb 2022
 | ---------- | -------------------------------------------------------------------- |
 | author     | CobaltWolf, AlbertKermin and zer0Kerbal                              |
 | license    | SimpleBSD-2                                                          |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*)     |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/)    |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/MiniSampleReturnCapsule)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule) |
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
-## Version 1.4.2.1 - `<Before, For, After>`
+# 1.4.2.2 - `Zippity Don't Cha`
 
-### This is PRE-RELEASE - and WILL break saves
+* 15 Apr 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
 
-* 30 Mar 2022
-* Release for Kerbal Space Program [KSP 1.12.3]
+### Removed
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+* [Kerbalism.zip]
+  * Thank you [N3N]
+    * <KSP_ROOT>GameData\MiniSampleReturnCapsule\Compatibility\Kerbalism.zip
+    * I accidentally left it there when I sent an updated file; and it corrupted the release. Again, apologies for that.
+    * concerned that calling KerbalismDefault will tell MM that it is installed.
+  * fixes #81 - [Bug 🐞]: Kerbalism.zip
 
-### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+### Update
+
+* docs/
+* automation
+* documentation
+* Add
+  * [Notices.md]
+  * [Attributions.md]
+  * [ManualInstallation.md]
+
+### Status
+
+* Issues
+  * closes #82 - Mini Sample Return Capsule 1.4.2.2-release `<Zippity Don't Cha>`
+  * closes #83 - 1.4.2.2 Verify Legal Mumbo Jumbo
+  * closes #84 - 1.4.2.2 Update Documentation
+  * closes #85 - 1.4.2.2 Update Social Media
+* Pull Request  
+* #80 - [ImgBot] Optimize images - contributed by imgbot[bot]
+
+---  
+
+# 1.4.2.1 - `Before, For, After`
+
+* 30 Mar 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Fixed
 
@@ -49,18 +79,24 @@ updated: 01 Feb 2022
 ### Status
 
 * Issues
-  * closes #73 Mini Sample Return Capsule 1.4.2.1-release `<NAME>`
+  * closes #73 Mini Sample Return Capsule 1.4.2.1-release `<Before, For, After>`
   * closes #74 1.4.2.1 Verify Legal Mumbo Jumbo
   * closes #75 1.4.2.1 Update Documentation
   * closes #76 1.4.2.1 Update Social Media
   * closes #71 [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
 
+* #70 - 1.4.2.0 release - contributed by zer0Kerbal
+* #72 - upstream - contributed by zer0Kerbal
+* #77 - Version 1.4.2.1 - `&lt;Before, For, After&gt;` - contributed by zer0Kerbal
+* #71 - [Bug &#55357;&#56350;]: Warnings from Module Manager for kerbalism.cfg
+* #73 - Mini Sample Return Capsule 1.4.2.1-release `&lt;Before, For, After&gt;`
+* #74 - 1.4.2.1 Verify Legal Mumbo Jumbo
+* #75 - 1.4.2.1 Update Documentation
+* #76 - 1.4.2.1 Update Social Media
+
 ---
 
-## 1.4.2.0 - `<To kerbal or to not kerbal...>`
-
-* 02 Feb 2022  
-* Release for Kerbal Space Program [KSP 1.12.x]
+## Version 1.4.2.0 - [01 Feb 2022] for KSP 1.12.3
 
 ### 1.4.2.0 Localization
 
@@ -121,7 +157,7 @@ updated: 01 Feb 2022
     * m³ x 1000L = 95.11 m³
     * packedVolume = 100
   * Update
-    *  Add zer0Kerbal to [author]
+    * Add zer0Kerbal to [author]
     * [maximum_drag] changed from 0.2 to 0.1
     * [angularDrag] changed from 2 to 1.5
     * [maxTemp] changed from 2900 to 2500
@@ -137,7 +173,7 @@ updated: 01 Feb 2022
     * m³ x 1000L = 63.92 m³
     * packedVolume = 75
   * Update
-    *  Add zer0Kerbal to [author]
+    * Add zer0Kerbal to [author]
     * [maximum_drag] changed from 0.2 to 0.3
     * [minimum_drag] = 0.3 to 0.1
     * [angularDrag] changed from 2 to 1.5
@@ -185,7 +221,43 @@ updated: 01 Feb 2022
 * Updates
   * updates #46 - Localization - Master
 
----  
+* #18 - 1.4.1.0 - contributed by zer0Kerbal
+* #59 - 1.4.2.0 Update [readme.md] v1.5.4.0 - contributed by zer0Kerbal
+* #60 - Create Kerbalism.cfg - contributed by zer0Kerbal
+* #66 - Compatibility Patches :cool: - contributed by zer0Kerbal
+* #67 - 1.4.2.0 release - contributed by zer0Kerbal
+* #68 - Translation to Portuguese-BR - contributed by zer0Kerbal
+* #7 - Localization.md
+* #8 - Localization
+* #10 - [ModuleCargoPart] packedVolume seems a tad high
+* #15 - duplicate 
+* #16 - Tarsier Space Tech compatibility
+* #17 - add kOS compatibility
+* #20 - RemoteTech.cfg
+* #25 - # Version 1.4.1.0
+* #26 - Localization - zh-cn.cfg - Simplified Chinese
+* #27 - Localization - pt-br.cfg Brazil
+* #28 - Localization - en-us.cfg (English)
+* #29 - Localization
+* #34 - Localization - Brazil Portuguese (Portugu&#234;s Brasil) &lt;pt-br.cfg&gt;  
+* #45 - Localization - English (United States)] &lt;en-us.cfg&gt; 
+* #47 - Kerbalism config
+* #48 - Update Mini Science Return Capsule (end beta) (MSRC) 1.4.2.0
+* #51 - Release 1.4.2.0-release &lt;To kerbal or to not kerbal...&gt;
+* #52 - Version 1.4.2.0-release
+* #53 - 1.4.2.0 Verify Legal MumboJumbo
+* #54 - 1.4.2.0 Update documentation
+* #55 - 1.4.2.0 - Social Media
+* #56 - 1.4.2.0 Update release notes
+* #57 - 1.4.2.0 Update changelog
+* #58 - 1.4.2.0 Update readme
+* #61 - Add Compatibility
+* #62 - CommunityCategoryKit.cfg
+* #63 - GPOSppedFuelPump.cfg
+* #64 - KerbNet.cfg
+* #65 - TweakScale.cfg
+
+---
 
 ## Version 1.4.1.0 - Packed and ready to return
 
