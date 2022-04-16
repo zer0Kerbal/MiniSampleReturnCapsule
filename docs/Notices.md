@@ -14,9 +14,9 @@ updated:
 
 based upon work by LisiasT -->
 
-Mini Sample Return Capsule (MSRC)
+# Mini Sample Return Capsule (MSRC)
 
-[Home](./index.md)
+[Home](./index)
 
 ## Trademarks
 
