@@ -51,35 +51,24 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [MiniSampleReturnCapsule]
-      + [Agencies]
+      + [Assets]
         ...
       + [Compatibility]
-        ...
-      + [Contracts]
-        ...
-      + [Flags]
         ...
       + [Localization]
         ...
       + [Parts]
         ...
-      + [Plugins]
-        ...
       * #.#.#.#.htm
       * changelog.md
-      * License.txt
+      * SimpleBSD.txt
       * readme.htm
       * MiniSampleReturnCapsule.version
     ...
-    * [Module Manager /L][mm]
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* [Module Manager /L][mm]
-* [SimpleConstruction! (SCON!)][scon]
-
-[scon]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstruction! (SCON!)"
-[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+* none
