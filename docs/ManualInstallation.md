@@ -6,10 +6,10 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.5.0
+<!-- ManualInstallation.md v1.1.6.0
 Mini Sample Return Capsule (MSRC)
 created: 01 Oct 2019
-updated: 11 Apr 2022 -->
+updated: 14 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
@@ -34,6 +34,7 @@ To install, place the MiniSampleReturnCapsule folder inside your Kerbal Space Pr
 * Extract the package's `MiniSampleReturnCapsule/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/MiniSampleReturnCapsule` --> `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
     * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/KGEx/MiniSampleReturnCapsule`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
@@ -44,6 +45,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 * Extract the package's `GameData/MiniSampleReturnCapsule` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/MiniSampleReturnCapsule` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/KGEx/MiniSampleReturnCapsule`
 
 ## The following file layout must be present after installation
 
