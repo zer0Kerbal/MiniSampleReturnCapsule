@@ -15,7 +15,7 @@ repository:
   description: Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/
   
   # A comma-separated list of topics to set on the repository
   topics: sample,experiment,capsule,size0,return,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods
