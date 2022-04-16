@@ -168,7 +168,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:org:download]: https://spacedock.info/mod/831 "SpaceDock"
 
 <!--- license  -->
-[LIC:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
+[LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json
 
 [LIC:org:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
