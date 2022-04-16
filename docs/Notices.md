@@ -21,6 +21,11 @@ based upon work by LisiasT -->
 ## Trademarks
 
 * "Mini Sample Return Capsule" is trademark of CobaltWolf and AlbertKermin
+* "Bluedog Design Bureau"  is trademark of CobaltWolf and AlbertKermin
+* "BDB" logo is trademark of  CobaltWolf and AlbertKermin
+* "Albert Kermin Industries" is trademark of AlbertKermin
+* "AKI" logo is trademark of  AlbertKermin
+* "Mini Sample Return Capsule" is trademark of CobaltWolf and AlbertKermin
 * "MRSC" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
