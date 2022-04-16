@@ -1,178 +1,185 @@
-<!-- readme.md v1.6.5.5
+<!-- readme.md v1.6.6.2
 Mini Sample Return Capsule (MSRC)
 created: 01 Oct 2019
-updated: 27 Jan 2022 -->
+updated: 04 Apr 2022 -->
 
-[![MODNAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
+<!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
+
+[![MiniSampleReturnCapsule][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
-# Mini Sample Return Capsule (MSRC) 
+[![GitHub Pages][MOD:pages:shd]][MOD:pages]
+
+
+
+# Mini Sample Return Capsule (MSRC)
 
 Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.  
 
-#### Adopted by [`zer0Kerbal`][LINK:zer0Kerbal], originally by [`CobaltWolf`][LINK:cobaltwolf] and [`AlbertKermin`][LINK:albertkermin]  
 
-brought to you by _KGEx_
 
-## Features 
+#### Adopted by [`zer0Kerbal`][zer0Kerbal], originally by [`CobaltWolf`][cobaltwolf] and [`AlbertKermin`][albertkermin]
+
+adopted with *express* permission and brought to you by *KerbSimpleCo*
+
+## Features
 
 This mod adds two parts
+
 * Part: command with integrated parachute
 * Part: cargo-bay with integrated heat-shield
 
-### Preamble by [`CobaltWolf`][LINK:cobaltwolf]  
+### Preamble by [`CobaltWolf`][cobaltwolf]  
 
-> Hello all! I have another new mod for you. A couple weeks ago, the incredibly handsome [`AlbertKermin`][LINK:albertkermin] asked me if I was interested in making a mini-mod. Inspired by the OSIRIS-Rex mission, he wanted a small sample return capsule that could be loaded with experiments and safely return.
-
----
-
-[github.io](https://zer0kerbal.github.io/MiniSampleReturnCapsule/)
-
-![Flag][IMG:flg:0]  
-![Hero Image][IMG:hero:0]  
-
-#### Cabin notes  
->
-> * Future Plans: lol. Except compatibility patches, keep it working with future KSP updates.
-> * This pack is essentially feature and part complete.
-> * There will be no additional parts.
-> * There will be no more major version (1.4.0.0) after this one.
-> * Any minor releases will be for additional patches and improvements
-> * I have not personally tested the patches
-* _Have a request?_
-  * Glad to have them!
-    * Kindly submit through GitHub.
-
-### Help Wanted
-> 
-> * Community Tech Tree integration 
-> * Tech Tree Balancing
-> * Variant Textures and code to make it work always welcome!
-> * Antenna animation
-> * Add a blinking light or two
-> * Variant textures.
-
----
-
-### Localization - _work in progress_
-
->- [x]  ![][EN] English
->* [x]  ![Brazilian Portuguese][BR] Brazilian Portuguese (Português Brasil)- thank you [soldanithiago][LINK:soldanithiago]!
->- [ ]  ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
-
----
-
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
-
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+> Hello all! I have another new mod for you. A couple weeks ago, the incredibly handsome [`AlbertKermin`][albertkermin] asked me if I was interested in making a mini-mod. Inspired by the OSIRIS-Rex mission, he wanted a small sample return capsule that could be loaded with experiments and safely return.
 
 ---
 
 ### See More
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]  
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
+* GitHub Pages : See [Pages][MOD:pages] 
 
 ---
 
-### Installation Directions:
+![Hero Image][IMG:hero:0]  
+
+### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+
+[![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://www.youtube.com/watch?v=bfvicY6-uI0)
+
+<details>
+  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
+  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
+  <iframe width="1136" height="639" src="https://www.youtube.com/embed/bfvicY6-uI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+#### Cabin notes  
+>
+>* Future Plans: lol. Except compatibility patches, keep it working with future KSP updates.
+>* This pack is essentially feature and part complete.
+>* There will be no additional parts.
+>* There will be no more major version (1.4.0.0) after this one.
+>* Any minor releases will be for additional patches and improvements.
+>* I have not personally tested the patches.
+>* Have a request? Glad to have them! Kindly submit through [GitHub][MOD:issue].
+
+### Help Wanted
+>
+>* Community Tech Tree integration
+>* Tech Tree Balancing
+>* Variant Textures and code to make it work always welcome!
+>* Antenna animation
+>* Add a blinking light or two
+>* Variant textures
+
+---
+
+### Localization
+
+>* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)- thank you [soldanithiago][ithiago]!
+>* ***your translation here***
+>
+> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+
+---
+
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+
+---
+
+### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Suggests  
-* [x] [Module Manager][thread:mm] [^2]  
 
+* [Module Manager][thread:mm] [^3]  
 
 ### Supports  
 
-* ***NEW*** [Kerbalism][thread:kerb]
-* ***NEW*** [GPOSpeedFuelPump ][thread:gpo]
-* ***NEW*** [Community Category Kit][thread:cck]
+* [GPOSpeedFuelPump][thread:GPO]
+* [TweakScale][thread:twk]  
+* [Kerbalism][thread:kerb]
+* [Community Category Kit][thread:cck]
 * [Kerbal Operating System (kOS)][thread:kos]
 * [RemoteTech][thread:rt]  
 * [Tarsier Space Tech][thread:tss]  
-* [TweakScale][thread:twk]  
-
-
 
 ---
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</b></p>
+<p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
-</br>
-<p>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p></div>
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
 ### Credits and Special Thanks
 
-* [`AlbertKermin`][LINK:albertkermin] - Configs, compatibility, balance
-* [`CobaltWolf`][LINK:cobaltwolf] - Models, textures, Unity
-* [`Deimos Rast`][LINK:deimosrast] - Compatibility configs 
-* [Breach Candy#6128][LINK:breachcandy] - Kerbalism compatibility
-* [`soldanithiago`][LINK:soldanithiago] - Brazilian Português translation
+* [`AlbertKermin`][albertkermin] - Configs, compatibility, balance
+* [`CobaltWolf`][cobaltwolf] - Models, textures, Unity
+* [`Deimos Rast`][deimosrast] - Compatibility configs
+* [Breach Candy#6128][breachcandy] - Kerbalism compatibility
+* [`soldanithiago`][soldanithiago] - Brazilian Português translation
 
+### Legal Mumbo Jumbo (License *provenance*)
 
-### Legal Mumbo Jumbo (License _provenance_)
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]  
 
-#### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]  
-
-> Forum: [Thread][MOD:thread] - Source: [GitHub][GITHUB:url]  
-> License: [![License SimpleBSD-2][LIC:shd]][LIC:url]  
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
-> _All bundled mods are distributed under their own licenses_
-> _All art assets (textures, models, animations, sounds) are distributed under their own licenses_ 
-> [![License CC BY-NC-SA 4.0][LIC:spec:shd]][LIC:spec:url] [![][LIC:spec:logo] ][LIC:spec:url]  
+> ##### Disclaimer(s)
+>
+> ***All bundled mods are distributed under their own licenses***  
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`CobaltWolf`][LINK:cobaltwolf]
+#### Original (0) - Author: [`CobaltWolf`][cobaltwolf]
 
-> [Thread][MOD:org:thread]  - [Download][MOD:org:download] - Source: [GitHub][MOD:org:source] 
-> License: [![License SimpleBSD-2][LIC:org:shd]][LIC:org:url] 
+> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:download] - Source: [Dropbox][MOD:0:source]
+> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
------
-
-![IMG:hero:1] 
-
-<!--- mod -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-* "Mod Forum Thread"
-
+<!-- mod links -->
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Changelog.cfg "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-* "MiniSampleReturnCapsule Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues "GitHub Issues"
-[MOD:known]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/LICENSE
-[MOD:local]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/tree/master/GameData/MiniSampleReturnCapsule/Localization"Localization"
-[MOD:wiki]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/wiki "Wiki"
+[MOD:local]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/GameData/MiniSampleReturnCapsule/Localization/readme.md "Localization"
+[MOD:pages]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "GitHub Pages"
+[MOD:wiki]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "Wiki"
 
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json
 
 <!--- original mod -->
-[MOD:org:source]: https://spacedock.info/mod/831 "SpaceDock"
-[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-* "Original Thread"
-[MOD:org:download]: https://spacedock.info/mod/831 "SpaceDock"
+[MOD:0:source]: https://spacedock.info/mod/831 "SpaceDock"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-* "Original Thread"
+[MOD:0:download]: https://spacedock.info/mod/831 "SpaceDock"
 
 <!--- license  -->
 [LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json
 
-[LIC:org:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
-[LIC:org:shd]: https://img.shields.io/badge/License-SimpleBSD--2-AB2B28?style=plastic&logo=FreeBSD&labelColor=white&logoColor=AB2B28 "SimpleBSD-2"
+[LIC:0:url]:  https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
+[LIC:0:shd]: https://img.shields.io/badge/License-SimpleBSD--2-AB2B28?style=plastic&logo=FreeBSD&labelColor=white&logoColor=AB2B28 "SimpleBSD-2"
 
 [LIC:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
 [LIC:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
@@ -212,12 +219,12 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:kos]: https://forum.kerbalspaceprogram.com/index.php?/topic/165628-* "Kerbal Operating System"
 
 <!--- statics -->
-[LINK:albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "AlbertKermin"
-[LINK:cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
-[LINK:deimosrast]: https://forum.kerbalspaceprogram.com/index.php?/profile/157420-deimos-rast/ "Deimos Rast"
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:soldanithiago]: https://github.com/soldanithiago "soldanithiago"
-[LINK:breachcandy]:  http:// "Breach Candy#6128"
+[albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-albertkermin/ "AlbertKermin"
+[cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-cobaltwolf/ "CobaltWolf"
+[deimosrast]: https://forum.kerbalspaceprogram.com/index.php?/profile/157420-deimos-rast/ "Deimos Rast"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
+[soldanithiago]: https://github.com/soldanithiago "soldanithiago"
+[breachcandy]:  http:// "Breach Candy#6128"
 
 <!--- misc logos -->
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
