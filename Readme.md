@@ -136,8 +136,9 @@ Either
 * [`AlbertKermin`][albertkermin] - Configs, compatibility, balance
 * [`CobaltWolf`][cobaltwolf] - Models, textures, Unity
 * [`Deimos Rast`][deimosrast] - Compatibility configs
-* [Breach Candy#6128][breachcandy] - Kerbalism compatibility
 * [`soldanithiago`][soldanithiago] - Brazilian Português translation
+* [Breach Candy#6128][breachcandy] - Kerbalism compatibility
+* see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
