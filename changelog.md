@@ -17,6 +17,40 @@ updated: 01 Feb 2022
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
+# 1.4.2.1 - `Before, For, After`
+
+* 30 Mar 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Fixed
+
+* [Kerbalism.cfg] v1.0.1.0
+  * Thank you [AmanitaVerna]
+  * 'more than one pass specifier detected'
+  * removed :FOR[MiniSampleReturnCapsule] and kept :BEFORE/AFTER[KerbalismDefault]
+  * concerned that calling KerbalismDefault will tell MM that it is installed.
+  * fixes #71 - [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
+
+### Update
+
+* docs/
+* automation
+* documentation
+* [MiniSampleReturnCapsule.version]
+  * removed
+    * [KSP_VERSION_MAX]
+
+### Status
+
+* Issues
+  * closes #73 Mini Sample Return Capsule 1.4.2.1-release `<Before, For, After>`
+  * closes #74 1.4.2.1 Verify Legal Mumbo Jumbo
+  * closes #75 1.4.2.1 Update Documentation
+  * closes #76 1.4.2.1 Update Social Media
+  * closes #71 [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
+
+---
+
 ## Version 1.4.2.0 - [01 Feb 2022] for KSP 1.12.3
 
 ### 1.4.2.0 Localization
