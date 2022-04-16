@@ -14,7 +14,7 @@ updated: 30 Mar 2022 -->
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 # Mini Sample Return Capsule (MSRC)
 
-[Home](/index)
+[Home](/index.html)
 
 ## Parts Invoice
 
