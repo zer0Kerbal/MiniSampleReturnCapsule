@@ -13,11 +13,11 @@ created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
 # Mini Sample Return Capsule (MSRC)
 
-[Home](./index.md)
+[Home](./index.html)
 
 has been translated into the following languages:
 
