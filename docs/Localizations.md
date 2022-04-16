@@ -17,7 +17,7 @@ updated: 30 Mar 2022 -->
 
 # Mini Sample Return Capsule (MSRC)
 
-[Home](./index.html)
+[Home](./index.md)
 
 has been translated into the following languages:
 
