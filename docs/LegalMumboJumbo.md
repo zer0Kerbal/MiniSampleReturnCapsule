@@ -18,7 +18,7 @@ updated: 12 Apr 2022
 
 # Mini Sample Return Capsule (MSRC)  
 
-[Home](./index.html)
+[Home](./index.md)
 
 * [License](./LegalMumboJumbo/License.md)
 * Forums
