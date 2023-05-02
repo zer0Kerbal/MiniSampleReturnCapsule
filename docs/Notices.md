@@ -43,6 +43,6 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
 <!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
