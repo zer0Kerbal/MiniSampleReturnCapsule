@@ -44,14 +44,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [wiki: OSIRIS-Rex](https://en.wikipedia.org/wiki/OSIRIS-REx)
 
 <details>
+  <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
-<summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"> Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)</summary>
-
+Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 [![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
-
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-
 </details>
 
 #### Cabin notes  
