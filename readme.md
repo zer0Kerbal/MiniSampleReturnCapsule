@@ -51,6 +51,14 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > [![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
 </details>
 
+<details>
+  <summary><img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="33px"></summary>
+
+* Albums
+  * [Stack Inline Lights with full color and brightness setup and in any sizes!](https://i.imgur.com/AkVuW8J.png)
+
+</details>
+
 #### Cabin notes  
 >
 >* Future Plans: lol. Except compatibility patches, keep it working with future KSP updates.
