@@ -46,8 +46,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <details>
   <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
-Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-[![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
+>  Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>
+> [![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
 </details>
 
 #### Cabin notes  
