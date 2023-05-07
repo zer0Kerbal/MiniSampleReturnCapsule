@@ -1,11 +1,4 @@
-﻿<!--
-changelog.md v1.0.0.0
-Mini Sample Return Capsule (MSRC)
-this file: GPLv2 BY zer0Kerbal
-created: 25 Feb 2020
-updated: 01 Feb 2022
--->
-# Changelog  
+﻿# Changelog  
   
 | modName    | Mini Sample Return Capsule (MSRC)                                    |
 | ---------- | -------------------------------------------------------------------- |
@@ -17,12 +10,12 @@ updated: 01 Feb 2022
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
-# 1.4.2.2 - `Zippity Don't Cha`
+## Version 1.4.2.2-release - `<Zippity Don't Cha>`
 
 * 15 Apr 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Removed
+### Removed 1.4.2.2
 
 * [Kerbalism.zip]
   * Thank you [N3N]
@@ -31,7 +24,7 @@ updated: 01 Feb 2022
     * concerned that calling KerbalismDefault will tell MM that it is installed.
   * fixes #81 - [Bug 🐞]: Kerbalism.zip
 
-### Update
+### Update 1.4.2.2
 
 * docs/
 * automation
@@ -41,7 +34,7 @@ updated: 01 Feb 2022
   * [Attributions.md]
   * [ManualInstallation.md]
 
-### Status
+### Status 1.4.2.2
 
 * Issues
   * closes #82 - Mini Sample Return Capsule 1.4.2.2-release `<Zippity Don't Cha>`
@@ -53,12 +46,12 @@ updated: 01 Feb 2022
 
 ---  
 
-# 1.4.2.1 - `Before, For, After`
+## Version 1.4.2.1-release - `<Before, For, After>`
 
 * 30 Mar 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Fixed
+### Fixed 1.4.2.1
 
 * [Kerbalism.cfg] v1.0.1.0
   * Thank you [AmanitaVerna]
@@ -67,7 +60,7 @@ updated: 01 Feb 2022
   * concerned that calling KerbalismDefault will tell MM that it is installed.
   * fixes #71 - [Bug 🐞]: Warnings from Module Manager for kerbalism.cfg
 
-### Update
+### Update 1.4.2.1
 
 * docs/
 * automation
@@ -76,7 +69,7 @@ updated: 01 Feb 2022
   * removed
     * [KSP_VERSION_MAX]
 
-### Status
+### Status 1.4.2.1
 
 * Issues
   * closes #73 Mini Sample Return Capsule 1.4.2.1-release `<Before, For, After>`
@@ -96,23 +89,26 @@ updated: 01 Feb 2022
 
 ---
 
-## Version 1.4.2.0 - [01 Feb 2022] for KSP 1.12.3
+## Version 1.4.2.0-release
 
-### 1.4.2.0 Localization
+* 01 Feb 2022
+* KSP 1.12.3
+
+### Localization 1.4.2.0
 
 * added <pt-br.cfg>
 * Brazil Portuguese (Português Brasil) - Thank you [soldanithiago](https://github.com/soldanithiago)
 * added localization quickstart.md
 * closes #34 - Localization - Brazil Portuguese (Portugu├¬s Brasil) <pt-br.cfg> 
 
-### Added
+### Added 1.4.2.0
 
 * Kerbalism compatibility
   * [Kerbalism.cfg] v1.0.0.0
   * Thank you [Breach Candy#6218]
   * closes #47 - Kerbalism config
   
-### Compatibility Patches
+### Compatibility 1.4.2.0
 
 * Add
   * [TweakScale.cfg] v1.0.1.9
@@ -129,7 +125,7 @@ updated: 01 Feb 2022
   * closes #62 - CommunityCategoryKit.cfg
   * closes #61 - Add Compatibility
   
-### Convert Change Log
+### Convert Change Log 1.4.2.0
 
 * From Kerbal ChangeLog to markdown
 * Convert [Changelog.cfg] --> [changelog.md]
@@ -137,7 +133,7 @@ updated: 01 Feb 2022
 * Delete Changelog.cfg
 * closes #57 - 1.4.2.0 Update changelog
   
-### Wiki
+### Wiki 1.4.2.0
 
 * Added localization.md
 
@@ -189,7 +185,7 @@ updated: 01 Feb 2022
     * [ModuleSAS]
       * [SASServiceLevel] changed from 1 to 2
 
-### 1.4.2.0 Maintenance
+### Maintenance 1.4.2.0
 
 * Incremental Upgrades
   * minor housekeeping
@@ -199,7 +195,7 @@ updated: 01 Feb 2022
   * automated back end processes.
   * consolidated footer in files
 
-### 1.4.2.0 Status
+### Status 1.4.2.0
 
 * Issues
   * closes #45 - Localization - English (United States)] <en-us.cfg>
@@ -259,23 +255,23 @@ updated: 01 Feb 2022
 
 ---
 
-## Version 1.4.1.0 - Packed and ready to return
+## Version 1.4.1.0 - `<Packed and ready to return>`
 
 * 2021-09-16
 * Released for Kerbal Space Program 1.12.2
 
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</color></b>
 
-### Update
+### Update 1.4.1.0
 
-### 1.4.1.0 Localization
+### Localization 1.4.1.0
 
 * [Localization\readme.md]
   * to version 2.0.0.0 which closes #7
 
 * created .legal folder with forum adoption approval
 
-### 1.4.1.0 Added
+### Added 1.4.1.0
 
 * [kOS.cfg]
   * kOS compatibility
@@ -297,13 +293,13 @@ updated: 01 Feb 2022
   * RemoteTech compatibility
   * 'RemoteTech Enabled.' added to description
 
-### 1.4.1.0 Updated
+### Updated 1.4.1.0
 
 * [mrsc-cargobay] and [msrc-parachute]
   * [ModuleCargoPart] packedVolume = 125 from 1100 (based upon volume of a column~ish)
   * [ModuleCargoPart] packedVolume = 100 from 1200 (based upon volume of a hemisphere~ish)
 
-### 1.4.1.0 Maintenance
+### Maintenance 1.4.1.0 
 
 * Incremental Upgrades
   * minor housekeeping
@@ -312,7 +308,7 @@ updated: 01 Feb 2022
   * modernization, polish, update pass on part.cfg's
   * automated back end processes.
 
-### 1.4.1.0 Status
+### Status 1.4.1.0 
 
 * Issues
   * closes #7 Localization/readme.md
@@ -323,7 +319,7 @@ updated: 01 Feb 2022
   * closes #20 add RemoteTech description blurb
   * updated #8 us-en.cfg should be complete
 
-### 1.4.1.0 Possible future changes
+### Possible future changes 1.4.1.0
 
 * ***❓ ❔ seems high : ❓ ❔***
   * [breakingForce = 50]
@@ -334,7 +330,7 @@ updated: 01 Feb 2022
 
 ---
 
-## Version 1.4.0.0 - Old dog, new tricks
+## Version 1.4.0.0-adoption - `<Old dog, new tricks>`
 
 * 2021-08-04
 * Released for Kerbal Space Program 1.12.2
