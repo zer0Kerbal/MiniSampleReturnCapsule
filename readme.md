@@ -1,58 +1,59 @@
-<!-- readme.md v1.6.6.2
+<!-- readme.md v1.4.3.0
 Mini Sample Return Capsule (MSRC)
-created: 01 Oct 2019
-updated: 04 Apr 2022 -->
+created: 
+updated: 
 
-<!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
+TEMPLATE: readme.md v1.7.3.1
+created: 17 Jul 2017
+updated: 06 May 2023
 
-[![MiniSampleReturnCapsule][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages][MOD:pages:shd]][MOD:pages]
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
+[![Mini Sample Return Capsule (MSRC)][SHD:mod]][CURSFG:shd]  
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][pages:shd]][pages]
 
-
-# Mini Sample Return Capsule (MSRC)
+## [Mini Sample Return Capsule (MSRC)][CURSFG:shd]
 
 Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.  
-
-
 
 #### Adopted by [`zer0Kerbal`][zer0Kerbal], originally by [`CobaltWolf`][cobaltwolf] and [`AlbertKermin`][albertkermin]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo.png" alt="MOD-NAME Hero" width="50%" height="50%">
+
 ## Features
 
-This mod adds two parts
-
-* Part: command with integrated parachute
-* Part: cargo-bay with integrated heat-shield
+* This mod adds two parts
+  * command pod with integrated parachute
+  * cargo-bay with integrated heat-shield
 
 ### Preamble by [`CobaltWolf`][cobaltwolf]  
 
 > Hello all! I have another new mod for you. A couple weeks ago, the incredibly handsome [`AlbertKermin`][albertkermin] asked me if I was interested in making a mini-mod. Inspired by the OSIRIS-Rex mission, he wanted a small sample return capsule that could be loaded with experiments and safely return.
 
----
+### See more
 
-### See More
+>* [ChangeLog][chlog] for more details of changes
+>* [Discussions][discu] or [forums][forum] for discussions and news
+>* [GitHub Pages][pages]
+>* [Known Issues][issue] for more details of feature requests and known issues
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
+>* [wiki: OSIRIS-Rex](https://en.wikipedia.org/wiki/OSIRIS-REx)
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
-* GitHub Pages : See [Pages][MOD:pages]
+### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
----
+* Review
+  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-![Hero Image][IMG:hero:0]  
-
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://www.youtube.com/watch?v=bfvicY6-uI0)
+[![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
 
 <details>
   <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
   Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/bfvicY6-uI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1202" height="676" src="https://www.youtube.com/embed/bfvicY6-uI0" title="KSP Mods - Mini Sample Return Capsule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
 #### Cabin notes  
@@ -63,7 +64,7 @@ This mod adds two parts
 >* There will be no more major version (1.4.0.0) after this one.
 >* Any minor releases will be for additional patches and improvements.
 >* I have not personally tested the patches.
->* Have a request? Glad to have them! Kindly submit through [GitHub][MOD:issue].
+>* Have a request? Glad to have them! Kindly submit through [GitHub][issue].
 
 ### Help Wanted
 >
@@ -82,7 +83,7 @@ This mod adds two parts
 >* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)- thank you [soldanithiago][ithiago]!
 >* ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
@@ -138,13 +139,13 @@ Either
 * [`Deimos Rast`][deimosrast] - Compatibility configs
 * [`soldanithiago`][soldanithiago] - Brazilian Português translation
 * [Breach Candy#6128][breachcandy] - Kerbalism compatibility
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* see [Attribution][attrb] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
 #### Current (1) - [`zer0Kerbal`][zer0Kerbal]  
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url]
 >
 > ##### Disclaimer(s)
@@ -154,29 +155,29 @@ Either
 
 #### Original (0) - Author: [`CobaltWolf`][cobaltwolf]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:download] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][0:thread] - Download: [Dropbox][0:download] - Source: [Dropbox][0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
 
 <!-- mod links -->
-[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Attribution.md "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Changelog.cfg "Changelog"
-[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
-[MOD:discu]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/ "MiniSampleReturnCapsule Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues "GitHub Issues"
-[MOD:licns]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/LICENSE
-[MOD:local]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/GameData/MiniSampleReturnCapsule/Localization/readme.md "Localization"
-[MOD:pages]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "GitHub Pages"
-[MOD:wiki]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "Wiki"
+[attrb]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Attribution.md "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/Changelog.cfg "Changelog"
+[contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
+[discu]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/ "MiniSampleReturnCapsule Forum Thread"
+[issue]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues "GitHub Issues"
+[licns]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/LICENSE
+[local]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/blob/master/GameData/MiniSampleReturnCapsule/Localization/readme.md "Localization"
+[pages]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "GitHub Pages"
+[wiki]: https://zer0kerbal.github.io/MiniSampleReturnCapsule/ "Wiki"
 
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json
 
-[MOD:pages:shd]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
+[SHD:pgs]: https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- original mod -->
-[MOD:0:source]: https://spacedock.info/mod/831 "SpaceDock"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-*/ "Original Thread"
-[MOD:0:download]: https://spacedock.info/mod/831 "SpaceDock"
+[0:source]: https://spacedock.info/mod/831 "SpaceDock"
+[0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-*/ "Original Thread"
+[0:download]: https://spacedock.info/mod/831 "SpaceDock"
 
 <!--- license  -->
 [LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
