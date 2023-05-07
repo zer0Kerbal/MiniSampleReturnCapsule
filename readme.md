@@ -94,7 +94,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Suggests  
 
 * [Adjustable Mod Panel (KAMP)][KAMP]
-* [Biomatic (BIO)"][BIO]
+* [Biomatic (BIO)][BIO]
 * [DaMichel's AeroRadial (DAR)][DAR]
 * [Dreamer (DREAM)][DREAM]
 * [Exception Detector (EXCD)][EXCD]
