@@ -18,6 +18,8 @@ updated: 01 May 2023 -->
 
 ## [Mini Sample Return Capsule (MSRC)][mod]
 
+Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments
+
 [Home](./index.md)
 
 ## Parts Catalog
@@ -53,7 +55,7 @@ updated: 01 May 2023 -->
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/docs/thumbs/msrc-cargoBay_icon.png" alt="Cargo Bay" width="25%" height="25%" />
 
-### BDB/AKI-001EDL Sample Return Device - Reentry Segment
+[top](#parts-catalog)
 
 * Heat Shield
 * Cargo Bay
@@ -67,9 +69,7 @@ updated: 01 May 2023 -->
 
 [top](#parts-catalog)
 
-[top](#parts-catalog)
-
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/MOD-NAME "MOD-NAME (ABBV)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC)"
