@@ -32,9 +32,9 @@
   * closes #91 - Mini Sample Return Capsule (MSRC) 1.4.3.0-release `<Scanning Rodger, Rodger>` edition
   * closes #92 - 1.4.3.0 Additional Tasks
   * closes #19 - SCANsat compatibility
-  * closes #90 - [BUG] Kerbalism config
-  * closes #89 - [Bug] Parachute/Core Model Linked to Antenna Durability Snapping.
   * closes #88 - [Request] Allow Science Retrieval
+  * closes #89 - [Bug] Parachute/Core Model Linked to Antenna Durability Snapping.
+  * closes #90 - [BUG] Kerbalism config
 
 ---
 
