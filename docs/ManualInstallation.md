@@ -2,18 +2,20 @@
 permalink: /ManualInstallation.html
 title: ManualInstallation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.5.0
+<!-- ManualInstallation.md v1.4.3.0
 Mini Sample Return Capsule (MSRC)
-created: 01 Oct 2019
-updated: 11 Apr 2022 -->
+created: 04 Aug 2021
+updated: 06 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Mini Sample Return Capsule (MSRC)
+based upon work by Lisias -->
+
+## [Mini Sample Return Capsule (MSRC)][mod]
 
 [Home](./index.md)
 
@@ -27,23 +29,25 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the MiniSampleReturnCapsule folder inside your Kerbal Space Program's GameData folder:
+To install, place the `<MiniSampleReturnCapsule>` folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
 * Extract the package's `MiniSampleReturnCapsule/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/MiniSampleReturnCapsule` --> `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
+  * `<PACKAGE>/MiniSampleReturnCapsule` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
-* Extract the package's `GameData/MiniSampleReturnCapsule` folder into your KSP's root folder as follows:
-  * `<PACKAGE>/GameData/MiniSampleReturnCapsule` --> `<KSP_ROOT>/GameData`
-    * Overwrite any preexisting file.
+* Extract the package's `GameData` folder into your KSP's root folder as follows:
+  * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
+    * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/MiniSampleReturnCapsule`
 
 ## The following file layout must be present after installation
 
@@ -55,16 +59,21 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         ...
       + [Compatibility]
         ...
+      + [Config]
+        ...
       + [Localization]
         ...
       + [Parts]
         ...
       * #.#.#.#.htm
+      * Attributions.htm
       * changelog.md
-      * SimpleBSD.txt
-      * readme.htm
+      * ManualInstallation.htm
       * MiniSampleReturnCapsule.version
+      * readme.htm
+      * SimpleBSD.txt
     ...
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
@@ -72,3 +81,8 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 ### Dependencies
 
 * none
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC)"

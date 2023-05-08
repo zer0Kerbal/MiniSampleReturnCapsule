@@ -2,25 +2,34 @@
 permalink: /Notices.html
 title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-Notices.md v1.0.0.0
+Notices.md v1.4.3.0
 Mini Sample Return Capsule (MSRC)
+created: 04 Aug 2021
+updated: 06 May 2023
+
+TEMPLATE: Notices.md v1.0.2.0
 created: 13 Apr 2022
-updated: 
+updated: 26 Apr 2023
 
 based upon work by LisiasT -->
 
-# Mini Sample Return Capsule (MSRC)
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-[Home](./index)
+## [Mini Sample Return Capsule (MSRC)][mod]
 
-## Trademarks
+[Home](./index.md)
+
+## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "Mini Sample Return Capsule" is trademark of CobaltWolf and AlbertKermin
+* "Bluedog Design Bureau"  is trademark of CobaltWolf and AlbertKermin
+* "BDB" logo is trademark of  CobaltWolf and AlbertKermin
+* "Albert Kermin Industries" is trademark of AlbertKermin
+* "AKI" logo is trademark of  AlbertKermin
 * "MRSC" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
@@ -38,6 +47,9 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC)"
