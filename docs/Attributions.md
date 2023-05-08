@@ -73,6 +73,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Art Asset(s)
 
 * Hero Logo/Cover - All Rights Reserved
+* Font: Cobalt Alien Halftone
+  * Daniel Zadorozny
 
 ### Testing and Support
 
