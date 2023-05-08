@@ -10,6 +10,34 @@
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
+## Version 1.4.3.0-release - `<Scanning Rodger, Rodger>` edition
+
+* Released
+  * 07 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+## Change Summary
+
+* Kerbalism patch riding coattails - thank you [Rodg88](https://github.com/Rodg88)
+* Found the Science Container in the Reentry Segment (parachute), Val was using it to store her lunch.
+* New manufacturing tech resulting from peanut butter spillage from Val's lunch has toughened up both segments
+* BIOS/OS update now allows for SCANsat compatibility
+* now can search for `msrc` in editors to find parts
+* updating documentation
+* new Hero logo/cover
+* linting, updating and general tom foolery
+
+* Issues
+  * closes #91 - Mini Sample Return Capsule (MSRC) 1.4.3.0-release `<Scanning Rodger, Rodger>` edition
+  * closes #92 - 1.4.3.0 Additional Tasks
+  * closes #19 - SCANsat compatibility
+  * closes #90 - [BUG] Kerbalism config
+  * closes #89 - [Bug] Parachute/Core Model Linked to Antenna Durability Snapping.
+  * closes #88 - [Request] Allow Science Retrieval
+
+---
+
 ## Version 1.4.2.2-release - `<Zippity Don't Cha>`
 
 * 15 Apr 2022  
