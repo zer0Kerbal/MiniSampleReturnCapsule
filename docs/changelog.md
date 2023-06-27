@@ -15,12 +15,88 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | modName    | Mini Sample Return Capsule (MSRC)                                    |
 | ---------- | -------------------------------------------------------------------- |
 | author     | CobaltWolf, AlbertKermin and zer0Kerbal                              |
-| license    | SimpleBSD-2                                                          |
+| license    | SimpleBSD-2+ARR                                                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/)    |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/MiniSampleReturnCapsule)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule) |
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
+
+## Version 1.4.4.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 27 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * search for `msrc` in editors to find parts
+
+## Change Summary
+
+### Change Summary 1.4.4.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+* updating documentation
+* linting, updating and general tom foolery
+
+### Changes 1.4.4.0
+
+#### Parts 1.4.4.0
+
+* Update
+  * category = Science
+  * [msrc-cargobay.cfg] v1.4.4.0
+  * [msrc-parachute.cfg] v1.4.4.0
+    * adjust antenna specifications to match Commtech 16S
+
+#### Compatibility 1.4.4.0
+
+* Update
+  * [GPOSpeedFuelPump.cfg] v1.0.3.0
+  * [Kerbalism.cfg] v1.0.3.0
+
+#### Localization 1.4.4.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * header, give credit
+  * fuel switcher strings
+  * [ru.cfg] v1.0.1.0
+  * [en.cfg] v1.1.1.0
+  * [pr-br.cfg] v1.1.1.0
+* closes #33 - Localization - [Russian (Русский)][RU] <ru.cfg>
+* updates #27 - Localization - pt-br.cfg Brazil
+* updates #28 - Localization - en-us.cfg (English)
+* updates #46 - Localization - Master
+
+#### Documentation 1.4.4.0
+
+* Update
+  * [readme.md] v1.4.4.0
+    * fixed KSP shield pulling data from Taerobee
+  * [ReleaseLayout.md] 1.4.4.0
+  * [Attributions.md] v1.4.4.0
+  * [Localizations.md] v1.4.4.0
+  * [PartsCatalog.md] v1.4.3.1
+    * minor linting
+  * [404.md] v1.4.4.0
+    * update from template
+
+* Issues
+  * closes #96 - 1.4.4.0 Additional Tasks
+  * closes #95 - Mini Sample Return Capsule (MSRC) 1.4.4.0-release `<Engaging Upgrades>` edition
+
+---
 
 ## Version 1.4.3.0-release - `<Scanning Rodger, Rodger>` edition
 
@@ -230,7 +306,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Incremental Upgrades
   * minor housekeeping
   * linting and duct taping
-  * patch dusting (mostly removing construction dust (comments)
+  * patch dusting (mostly removing construction dust (comments))
   * modernization, polish, update pass on part.cfg's
   * automated back end processes.
   * consolidated footer in files
