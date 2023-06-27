@@ -10,6 +10,53 @@
 | spacedock  | (https://spacedock.info/mod/831)                                     |
 | ckan       | MiniSampleReturnCapsule                                              |
 
+## Version 1.4.4.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 27 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.4.4.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 1.4.4.0
+
+#### Compatibility 1.4.4.0
+
+* Update
+  * [GPO]
+
+#### Localization 1.4.4.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+
+#### Documentation 1.4.4.0
+
+* Update
+  * [readme.md] v1.4.4.0
+    * fixed KSP shield pulling data from Taerobee
+  * [ReleaseLayout.md] 1.4.4.0
+  * [Attributions.md] v1.0.4.0
+  * [Localizations.md] v1.0.4.0
+
+
+---
+
+
 ## Version 1.4.3.0-release - `<Scanning Rodger, Rodger>` edition
 
 * Released
