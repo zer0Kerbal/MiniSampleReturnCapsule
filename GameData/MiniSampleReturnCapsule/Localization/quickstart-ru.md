@@ -1,17 +1,16 @@
 ---
-permalink: /Quickstart.html
+permalink: /quickstart-ru.html
 title: Краткое руководство
 ---
-
-<!--
-quickstart.md v1.0.1.1
+<!-- quickstart-ru.md v1.0.0.0
 Localization project
-created: 01 Jan 2018
-updated: 20 May 2022
+created: 04 Jun 2023
+updated: 04 Jun 2023
 
--->
-
-<!-- Переведено/translated by [evanisrael](https://github.com/evanisrael) -->
+THIS FILE:
+    CC BY-ND-4.0
+    by [zer0Kerbal](https://gitbug.com/zer0Kerbal)
+    Переведено/translated by [evanisrael](https://github.com/evanisrael) -->
 
 ## Руководство по переводу
 
@@ -42,6 +41,3 @@ updated: 20 May 2022
 1. Теги не должны быть заменены. Вместо этого следует добавлять теги на языке перевода.
 2. Управляющие последовательности, такие как '\n', '\t' или им подобные.
 3. Теги HTML вроде `<b>...</b>, <i>...</i>` и им подобные.
-
-<!-- CC BY-ND-4.0 by zer0Kerbal  -->
-
