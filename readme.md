@@ -39,7 +39,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [GitHub Pages][pages]
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
->* [Parts Catalog][parts] for part pictures
+>* [Parts Catalog][parts] for pretty part pictures
 >* [wiki: OSIRIS-Rex](https://en.wikipedia.org/wiki/OSIRIS-REx)
 
 <details>
@@ -130,12 +130,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SCANSat (scan)](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
 * [Tarsier Space Tech (tst)](http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
 * [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
-* Fuel Switchers:
-  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
-  <!-- * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter) -->
-  <!-- * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch) -->
-  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
-  <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/) -->
 
 ### Tags
 
