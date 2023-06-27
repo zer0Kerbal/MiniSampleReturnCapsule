@@ -1,13 +1,13 @@
 ---
-permalink: /PartInvoice.html
+permalink: /PartsCatalog.html
 title: Parts Invoice
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- PartInvoice.md v1.4.3.0
+<!-- PartsCatalog.md v1.4.3.1
 Mini Sample Return Capsule (MSRC)
 created: 04 Aug 2021
-updated: 06 May 2023
+updated: 27 Jun 2023
 
 TEMPLATE: PartsCatalog.md v1.1.4.3
 created: 01 Feb 2022
@@ -26,8 +26,8 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 <!-- no toc -->
 * BDB/AKI-001EDL Sample Return Device
- * [Reentry Segment](#reentry-segment)
- * [Descent Segment](#descent-segment)
+  * [Reentry Segment](#reentry-segment)
+  * [Descent Segment](#descent-segment)
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/docs/thumbs/msrc-parachute_icon.png" alt="Reentry Segment" width="25%" height="25%" />
 
