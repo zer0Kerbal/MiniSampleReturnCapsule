@@ -25,10 +25,19 @@
 
 ### Changes 1.4.4.0
 
+#### Parts 1.4.4.0
+
+* Update
+  * category = Science
+  * [msrc-cargobay.cfg] v1.4.4.0
+  * [msrc-parachute.cfg] v1.4.4.0
+    * adjust antenna specifications to match Commtech 16S
+
 #### Compatibility 1.4.4.0
 
 * Update
   * [GPO]
+  * Kerbalism.cfg v1.0.3.0
 
 #### Localization 1.4.4.0
 
@@ -41,8 +50,11 @@
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
+  * header, give credit
+  * fuel switcher strings
   * [ru.cfg] v1.0.1.0
-  * add header, give credit
+  * [en.cfg] v1.1.1.0
+  * [pr-br.cfg] v1.1.1.0
 
 #### Documentation 1.4.4.0
 
@@ -50,8 +62,12 @@
   * [readme.md] v1.4.4.0
     * fixed KSP shield pulling data from Taerobee
   * [ReleaseLayout.md] 1.4.4.0
-  * [Attributions.md] v1.0.4.0
-  * [Localizations.md] v1.0.4.0
+  * [Attributions.md] v1.4.4.0
+  * [Localizations.md] v1.4.4.0
+  * [PartsCatalog.md] v1.4.3.1
+    * minor linting
+  * [404.md] v1.4.4.0
+    * update from template
 
 
 ---
