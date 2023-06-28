@@ -1,4 +1,4 @@
-﻿# Changelog  
+# Changelog  
   
 | modName    | Mini Sample Return Capsule (MSRC)                                    |
 | ---------- | -------------------------------------------------------------------- |
