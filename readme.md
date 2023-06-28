@@ -1,32 +1,31 @@
-<!-- readme.md v1.4.3.0
+<!-- readme.md v1.4.4.0
 Mini Sample Return Capsule (MSRC)
-created: 
-updated: 
+created: 09 Jul 2016
+updated: 27 Jun 2023
 
-TEMPLATE: readme.md v1.7.3.1
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 06 May 2023
+updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Mini Sample Return Capsule (MSRC)][CURSFG:url]
 
-[![Mini Sample Return Capsule (MSRC)][SHD:mod]][CURSFG:shd]  
+[![Mini Sample Return Capsule (MSRC)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
 
-## [Mini Sample Return Capsule (MSRC)][CURSFG:shd]
-
 Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.  
 
-#### Adopted by [`zer0Kerbal`][zer0Kerbal], originally by [`CobaltWolf`][cobaltwolf] and [`AlbertKermin`][albertkermin]
+### By [`zer0Kerbal`][zer0Kerbal], originally by [`CobaltWolf`][cobaltwolf] and [`AlbertKermin`][albertkermin]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo.png" alt="MiniSampleReturnCapsule Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo.png" alt="Mini Sample Return Capsule Hero" width="50%" height="50%">
 
 ## Features
 
-* This mod adds two parts
-  * command pod with integrated parachute
+* Adds two parts
+  * command probe with integrated parachute
   * cargo-bay with integrated heat-shield
 
 ### Preamble by [`CobaltWolf`][cobaltwolf]  
@@ -40,45 +39,36 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [GitHub Pages][pages]
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
->* [Parts Catalog][parts] for part pictures
+>* [Parts Catalog][parts] for pretty part pictures
 >* [wiki: OSIRIS-Rex](https://en.wikipedia.org/wiki/OSIRIS-REx)
 
 <details>
   <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
 
->  Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+> Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 >
 > [![Kottabos reviews Mini Sample Return Capsule](https://img.youtube.com/vi/bfvicY6-uI0/0.jpg)](https://youtu.be/bfvicY6-uI0)
+
 </details>
-
-#### Cabin notes  
-
->* Future Plans: lol. Except compatibility patches, keep it working with future KSP updates.
->* This pack is essentially feature and part complete.
->* There will be no additional parts.
->* There will be no more major version (1.4.0.0) after this one.
->* Any minor releases will be for additional patches and improvements.
->* I have not personally tested the patches.
 
 ### Localization
 
->* ![English][EN] English
->* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)- ¡Gracias! [soldanithiago](https://github.com/soldanithiago)!
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![Português Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian Portuguese (Português Brasil)- gracias [soldanithiago](https://github.com/soldanithiago)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
 
-> * Community Tech Tree integration
-> * Tech Tree Balancing
-> * Antenna animation
+> * Community Tech Tree integration and tech tree balancing
+> * Animating Antenna deploy/retract
 > * Add a blinking light or two
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -89,42 +79,57 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
+* 📌 Pinned
+  * Dependencies:
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Suggests  
 
-* [Adjustable Mod Panel (KAMP)][KAMP]
-* [Biomatic (BIO)][BIO]
-* [DaMichel's AeroRadial (DAR)][DAR]
-* [Dreamer (DREAM)][DREAM]
-* [Exception Detector (EXCD)][EXCD]
-* [Kaboom! (BOOM)][BOOM]
-* [LanderTek (LTK)][LTEK]
-* [Mkerb Science Instruments][MSI]
-* [Nuke Tiny Parts (NTP)][NUK]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [OScience Laboratories (OSL)][OSL]
-* [Papa Kerballini's Pizza (PIZZA)][PIZZA]
-* [Precise Maneuver (PM)][PM]
-* [Pteron (MSRV)][MSRV]
-* [Simple Cargo Solutions (CARGO)][CARGO]
-* [Stack Inline Lights (SIL)][SIL]
-* [SimpleLogistics! (SLOG)][SLOG]
-* [SimpleNotes! (NOTE)][NOTES]
-* [Solar Science (SOL)][SOL]
-* [WhimChaser (WHIM)][WHIM]
+* [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
+* [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+* [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+* [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+* [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
+* [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
+* [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
+* [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* Science!
+  * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
+  * [OScience Laboratories (OSL)](https://curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
+  * [Papa Kerballini's Pizza (PIZZA)](https://curseforge.com/kerbal/ksp-mods/Pizza)
+  * [Solar Science (SOL)](https://curseforge.com/kerbal/ksp-mods/SolarScience)
+* by [Axial Aerospace Limited (AAL)](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
+  * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
+  * [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
+  * [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
+  * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
+* by [DaMichel Limited (DML)](https://curseforge.com/kerbal/ksp-mods/damichelltd)
+  * [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
+  * [DaMichel's CargoBays (DCB)](https://curseforge.com/kerbal/ksp-mods/CargoBays)
+  * [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
+  * [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
+* by [Nukes Unlimited (NU)](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+  * [Nuke's Tiny Experimental (NX)](https://curseforge.com/kerbal/ksp-mods/NukesTinyExperimental)
+  * [Nuke's Tiny Girders (NtG)](https://curseforge.com/kerbal/ksp-mods/NukesTinyGirders)
+  * [Nuke's Tiny Pods (NtP)](https://curseforge.com/kerbal/ksp-mods/TinyPods)
+  * [Nuke's Tiny Engines (NtE)](https://curseforge.com/kerbal/ksp-mods/TinyPods)
 
 ### Supports  
 
-* [Community Category Kit (CCK)][cck]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Kerbal Operating System (kOS)][kos]
-* [Kerbalism][kerb]
-* [ModularManagement (MM)][MM] or [Module Manager][m-m]
-* [RemoteTech (RT)][rt]
-* [SCANSat (scan)][scan]
-* [Tarsier Space Tech (tst)][tst]
-* [TweakScale (TWK)][twk]
+* [Community Category Kit (cck)](https://forum.kerbalspaceprogram.com/index.php?/topic/149840-*/)
+* [Kerbal Operating System (KOS)](https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/)
+* [Kerbalism (kerb)](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/)
+* [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+* [RemoteTech (RT)](https://remotetechnologiesgroup.github.io/RemoteTech/)
+* [SCANSat (scan)](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
+* [Tarsier Space Tech (tst)](http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
+* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
 
 ### Tags
 
@@ -147,12 +152,12 @@ parts, uncrewed
 
 #### Author (1) - [`zer0Kerbal`][zer0Kerbal]  
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > License: [![License][LIC:shd]][LIC:url]
 
 #### Original Author (ROOT) (0): [`CobaltWolf`][cobaltwolf] and [AlbertKermin][albertkermin]
 
-> Forum: [Thread][0:thd] - Download: [SpaceDock][0:dwn] - Source: [SpaceDock][0:src]  
+> Forum: [Thread][0:thr] - Download: [SpaceDock][0:dwn] - Source: [SpaceDock][0:src]  
 > License: [![License][0:shd]][0:url]
 
 #### Disclaimer(s)
@@ -188,9 +193,10 @@ Comment, click, like, share, up-vote, subscribe
 
 <!--- mod provenance-->
 [0:dwn]: https://spacedock.info/mod/831 "SpaceDock"
-[0:shd]: https://img.shields.io/badge/License-SimpleBSD--2-AB2B28?style=plastic&logo=FreeBSD&labelColor=white&logoColor=AB2B28 "SimpleBSD-2"
 [0:src]: https://spacedock.info/mod/831 "SpaceDock"
-[0:thd]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-*/ "KSP Thread"
+[0:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/143414-*/ "KSP Thread"
+
+[0:shd]: https://img.shields.io/badge/License-SimpleBSD--2-AB2B28?style=plastic&logo=FreeBSD&labelColor=white&logoColor=AB2B28 "SimpleBSD-2"
 [0:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2"
 
 <!--- license  -->
@@ -209,64 +215,26 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- Kerbal Space Program -->
 [KSP:url]: http://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Taerobee/master/json/ksp.json "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/ksp.json "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->
-[BIO]: https://www.curseforge.com/kerbal/ksp-mods/Biomatic "Biomatic (BIO)"
-[BOOM]: https://www.curseforge.com/kerbal/ksp-mods/Kaboom "Kaboom! (BOOM)"
-[CARGO]: https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions "Simple Cargo Solutions (CARGO)"
-[DAR]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "DaMichel's AeroRadial (DAR)"
-[DREAM]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Dreamer (DREAM)"
-[EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
-[GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
-[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
-[LTEK]: https://www.curseforge.com/kerbal/ksp-mods/LanderTek "LanderTek (LTK)"
-[MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Mkerb Science Instruments (MSI)"
-[MSRV]: https://www.curseforge.com/kerbal/Pteron "Pteron (MSRV)"
-[NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
-[NUK]: https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*/  "Nuke Tiny Parts"
-[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
-[OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
-[PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
-[PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights (SIL)"
-[SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
-[SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
-[WHIM]: https://www.curseforge.com/kerbal/ksp-mods/WhimChaser "WhimChaser (WHIM)"
-
-[cck]: https://github.com/UmbraSpaceIndustries/CommunityCategoryKit "Community Category Kit"
-[kerb]: https://forum.kerbalspaceprogram.com/index.php?/topic/201171-*/ "Kerbalism"
-[kos]: https://forum.kerbalspaceprogram.com/index.php?/topic/165628-*/ "Kerbal Operating System"
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[rt]: http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
-[scan]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/ "SCANSat"
-[tst]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/ "Tarsier Space Tech"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
-
+<!-- links -->
 [albertkermin]: https://forum.kerbalspaceprogram.com/index.php?/profile/110967-*/ "AlbertKermin"
 [cobaltwolf]: https://forum.kerbalspaceprogram.com/index.php?/profile/105588-*/ "CobaltWolf"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-
-[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[curseforge]: https://curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
-
 
 #### Connect with me
 

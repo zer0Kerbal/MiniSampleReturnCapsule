@@ -4,10 +4,10 @@ title: ManualInstallation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- ManualInstallation.md v1.4.3.0
+<!-- ManualInstallation.md v1.4.4.0
 Mini Sample Return Capsule (MSRC)
 created: 04 Aug 2021
-updated: 06 May 2023
+updated: 27 Jun 2023
 
 TEMPLATE: ManualInstallation.md v1.1.9.1
 created: 01 Feb 2022
